@@ -1,0 +1,1947 @@
+Date	Time	Trial	Event
+11/15/2019 	13:00:16.1644	1	Begin Trial / Recording
+11/15/2019 	13:00:16.2683	1	Present Aborted 
+11/15/2019 	13:00:17.0829	1	Direction 1 CW 40 Aborted 
+11/15/2019 	13:00:17.4866	1	Delay 0 Aborted 
+11/15/2019 	13:00:17.4896	1	Direction 2 CCW 40 Aborted 
+11/15/2019 	13:00:17.8915	1	Report Aborted 
+11/15/2019 	13:00:17.8955	1	Grace Period 300 Aborted 
+11/15/2019 	13:00:20.0356	1	Auto Reward Aborted 
+11/15/2019 	13:00:20.0406	1	Miss 1 Aborted 
+11/15/2019 	13:00:20.2444	1	End Recording Aborted 
+11/15/2019 	13:00:20.7222	1	Withdraw Aborted 
+11/15/2019 	13:00:21.4591	1	End Trial  Aborted 
+11/15/2019 	13:01:55.1015	2	Begin Trial / Recording
+11/15/2019 	13:01:55.2025	2	Present Aborted 
+11/15/2019 	13:01:56.0160	2	Direction 1 CCW 40 Aborted 
+11/15/2019 	13:01:56.4168	2	Delay 0 Aborted 
+11/15/2019 	13:01:56.4208	2	Direction 2 CCW 40 Aborted 
+11/15/2019 	13:01:56.8206	2	Report Aborted 
+11/15/2019 	13:01:56.8296	2	Grace Period 300 Aborted 
+11/15/2019 	13:01:58.9897	2	Miss 2 Aborted 
+11/15/2019 	13:01:59.3635	2	End Recording Aborted 
+11/15/2019 	13:01:59.8522	2	Withdraw Aborted 
+11/15/2019 	13:02:01.4044	2	End Trial  Aborted 
+11/15/2019 	13:03:53.3830	3	Begin Trial / Recording
+11/15/2019 	13:03:53.4839	3	Present
+11/15/2019 	13:03:54.2985	3	Direction 1 CW 40
+11/15/2019 	13:03:54.7002	3	Delay 0 Aborted 
+11/15/2019 	13:03:54.7032	3	Direction 2 CCW 40 Aborted 
+11/15/2019 	13:03:55.1030	3	Report Aborted 
+11/15/2019 	13:03:55.1070	3	Grace Period 300 Aborted 
+11/15/2019 	13:03:56.7521	3	Reward Aborted 
+11/15/2019 	13:03:56.7561	3	Hit 1 Aborted 
+11/15/2019 	13:03:57.4278	3	End Recording Aborted 
+11/15/2019 	13:03:59.2537	3	Withdraw Aborted 
+11/15/2019 	13:03:59.9929	3	End Trial  Aborted 
+11/15/2019 	13:05:13.5871	4	Begin Trial / Recording
+11/15/2019 	13:05:13.6881	4	Present Aborted 
+11/15/2019 	13:05:14.5027	4	Direction 1 CCW 40 Aborted 
+11/15/2019 	13:05:14.9025	4	Delay 0 Aborted 
+11/15/2019 	13:05:14.9055	4	Direction 2 CCW 40 Aborted 
+11/15/2019 	13:05:15.3053	4	Report Aborted 
+11/15/2019 	13:05:15.3133	4	Grace Period 300 Aborted 
+11/15/2019 	13:05:17.4398	4	Miss 2 Aborted 
+11/15/2019 	13:05:17.8186	4	End Recording Aborted 
+11/15/2019 	13:05:18.3024	4	Withdraw Aborted 
+11/15/2019 	13:05:19.8357	4	End Trial  Aborted 
+11/15/2019 	13:05:19.9759	5	Begin Trial / Recording
+11/15/2019 	13:05:20.0789	5	Present
+11/15/2019 	13:05:20.8929	5	Direction 1 CW 40
+11/15/2019 	13:05:21.2936	5	Delay 0
+11/15/2019 	13:05:21.2966	5	Direction 2 CCW 40
+11/15/2019 	13:05:21.6965	5	Report Aborted 
+11/15/2019 	13:05:21.7015	5	Grace Period 300 Aborted 
+11/15/2019 	13:05:23.3440	5	Auto Reward Aborted 
+11/15/2019 	13:05:23.3500	5	FA 1 Aborted 
+11/15/2019 	13:05:23.9656	5	Withdraw Aborted 
+11/15/2019 	13:05:24.0316	5	End Recording Aborted 
+11/15/2019 	13:05:24.7183	5	End Trial  Aborted 
+11/15/2019 	13:05:24.8513	6	Begin Trial / Recording
+11/15/2019 	13:05:24.9533	6	Present
+11/15/2019 	13:05:25.7674	6	Direction 1 CCW 40 Aborted 
+11/15/2019 	13:05:26.1697	6	Delay 0 Aborted 
+11/15/2019 	13:05:26.1727	6	Direction 2 CCW 40 Aborted 
+11/15/2019 	13:05:26.5730	6	Report Aborted 
+11/15/2019 	13:05:26.5770	6	Grace Period 300 Aborted 
+11/15/2019 	13:05:28.7164	6	Miss 2 Aborted 
+11/15/2019 	13:05:29.1042	6	End Recording Aborted 
+11/15/2019 	13:05:29.5790	6	Withdraw Aborted 
+11/15/2019 	13:05:31.1242	6	End Trial  Aborted 
+11/15/2019 	13:05:31.5056	7	Begin Trial / Recording
+11/15/2019 	13:05:31.6075	7	Present Aborted 
+11/15/2019 	13:05:32.4210	7	Direction 1 CW 40 Aborted 
+11/15/2019 	13:05:32.8219	7	Delay 0 Aborted 
+11/15/2019 	13:05:32.8329	7	Direction 2 CCW 40 Aborted 
+11/15/2019 	13:05:33.2347	7	Report Aborted 
+11/15/2019 	13:05:33.2386	7	Grace Period 300 Aborted 
+11/15/2019 	13:05:36.4011	7	Miss 1 Aborted 
+11/15/2019 	13:05:36.6070	7	End Recording Aborted 
+11/15/2019 	13:05:37.0818	7	Withdraw Aborted 
+11/15/2019 	13:05:37.8251	7	End Trial  Aborted 
+11/15/2019 	13:06:50.0324	8	Begin Trial / Recording
+11/15/2019 	13:06:50.1334	8	Present
+11/15/2019 	13:06:50.9479	8	Direction 1 CW 40
+11/15/2019 	13:06:51.3487	8	Delay 0
+11/15/2019 	13:06:51.3537	8	Direction 2 CW 40
+11/15/2019 	13:06:52.2542	8	Present Lick Spouts
+11/15/2019 	13:06:52.5550	8	Report
+11/15/2019 	13:06:52.5630	8	Grace Period 300
+11/15/2019 	13:06:54.9546	8	Reward Aborted 
+11/15/2019 	13:06:54.9606	8	Hit 2 Aborted 
+11/15/2019 	13:06:55.2245	8	End Recording Aborted 
+11/15/2019 	13:06:57.4542	8	Withdraw Lick Spouts Aborted 
+11/15/2019 	13:06:57.7570	8	Withdraw Aborted 
+11/15/2019 	13:06:59.3052	8	End Trial  Aborted 
+11/15/2019 	13:07:43.3876	9	Begin Trial / Recording
+11/15/2019 	13:07:43.4896	9	Present
+11/15/2019 	13:07:44.3031	9	Direction 1 CW 40 Aborted 
+11/15/2019 	13:07:44.7039	9	Delay 0 Aborted 
+11/15/2019 	13:07:44.7069	9	Direction 2 CCW 40 Aborted 
+11/15/2019 	13:07:45.1087	9	Report Aborted 
+11/15/2019 	13:07:45.1127	9	Grace Period 300 Aborted 
+11/15/2019 	13:07:48.2890	9	Miss 1 Aborted 
+11/15/2019 	13:07:48.4959	9	End Recording Aborted 
+11/15/2019 	13:07:48.9707	9	Withdraw Aborted 
+11/15/2019 	13:07:49.7197	9	End Trial  Aborted 
+11/15/2019 	13:07:49.8566	10	Begin Trial / Recording
+11/15/2019 	13:07:49.9576	10	Present
+11/15/2019 	13:07:50.7712	10	Direction 1 CW 40
+11/15/2019 	13:07:51.1710	10	Delay 0
+11/15/2019 	13:07:51.1740	10	Direction 2 CW 40
+11/15/2019 	13:07:51.5748	10	Report Aborted 
+11/15/2019 	13:07:51.5818	10	Grace Period 300 Aborted 
+11/15/2019 	13:07:54.7269	10	Miss 2 Aborted 
+11/15/2019 	13:07:55.0997	10	End Recording Aborted 
+11/15/2019 	13:07:55.5914	10	Withdraw Aborted 
+11/15/2019 	13:07:57.1263	10	End Trial  Aborted 
+11/15/2019 	13:07:57.6114	11	Begin Trial / Recording
+11/15/2019 	13:07:57.7144	11	Present Aborted 
+11/15/2019 	13:07:58.5279	11	Direction 1 CW 40 Aborted 
+11/15/2019 	13:07:58.9286	11	Delay 0 Aborted 
+11/15/2019 	13:07:58.9356	11	Direction 2 CCW 40 Aborted 
+11/15/2019 	13:07:59.3356	11	Report Aborted 
+11/15/2019 	13:07:59.3416	11	Grace Period 300 Aborted 
+11/15/2019 	13:08:02.4587	11	Miss 1 Aborted 
+11/15/2019 	13:08:02.6546	11	End Recording Aborted 
+11/15/2019 	13:08:03.1394	11	Withdraw Aborted 
+11/15/2019 	13:08:03.8688	11	End Trial  Aborted 
+11/15/2019 	13:10:16.6698	12	Begin Trial / Recording
+11/15/2019 	13:10:16.7717	12	Present
+11/15/2019 	13:10:17.5853	12	Direction 1 CCW 40
+11/15/2019 	13:10:17.9851	12	Delay 0
+11/15/2019 	13:10:17.9881	12	Direction 2 CCW 40
+11/15/2019 	13:10:18.8886	12	Present Lick Spouts
+11/15/2019 	13:10:19.1884	12	Report
+11/15/2019 	13:10:19.1924	12	Grace Period 300
+11/15/2019 	13:10:22.3066	12	Auto Reward Aborted 
+11/15/2019 	13:10:22.3116	12	Miss 2 Aborted 
+11/15/2019 	13:10:22.6894	12	End Recording Aborted 
+11/15/2019 	13:10:23.1691	12	Withdraw Lick Spouts Aborted 
+11/15/2019 	13:10:23.4689	12	Withdraw Aborted 
+11/15/2019 	13:10:25.0013	12	End Trial  Aborted 
+11/15/2019 	13:16:23.9203	13	Begin Trial / Recording
+11/15/2019 	13:16:24.0242	13	Present
+11/15/2019 	13:16:24.8397	13	Direction 1 CW 40
+11/15/2019 	13:16:25.2415	13	Delay 0
+11/15/2019 	13:16:25.2445	13	Direction 2 CCW 40
+11/15/2019 	13:16:25.6463	13	Report Aborted 
+11/15/2019 	13:16:25.6503	13	Grace Period 300 Aborted 
+11/15/2019 	13:16:28.7705	13	Auto Reward Aborted 
+11/15/2019 	13:16:28.7755	13	Miss 1 Aborted 
+11/15/2019 	13:16:28.9594	13	End Recording Aborted 
+11/15/2019 	13:16:29.4501	13	Withdraw Aborted 
+11/15/2019 	13:16:30.1956	13	End Trial  Aborted 
+11/15/2019 	13:16:30.3288	14	Begin Trial / Recording
+11/15/2019 	13:16:30.4308	14	Present
+11/15/2019 	13:16:31.2443	14	Direction 1 CW 40 Aborted 
+11/15/2019 	13:16:31.6461	14	Delay 0 Aborted 
+11/15/2019 	13:16:31.6490	14	Direction 2 CW 40 Aborted 
+11/15/2019 	13:16:32.0498	14	Report Aborted 
+11/15/2019 	13:16:32.0538	14	Grace Period 300 Aborted 
+11/15/2019 	13:16:35.2154	14	Auto Reward Aborted 
+11/15/2019 	13:16:35.2194	14	Miss 2 Aborted 
+11/15/2019 	13:16:35.5902	14	End Recording Aborted 
+11/15/2019 	13:16:36.0763	14	Withdraw Aborted 
+11/15/2019 	13:16:37.6220	14	End Trial  Aborted 
+11/15/2019 	13:17:20.4774	15	Begin Trial / Recording
+11/15/2019 	13:17:20.5794	15	Present
+11/15/2019 	13:17:21.3939	15	Direction 1 CW 40
+11/15/2019 	13:17:21.7947	15	Delay 0
+11/15/2019 	13:17:21.7977	15	Direction 2 CCW 40
+11/15/2019 	13:17:22.6972	15	Present Lick Spouts
+11/15/2019 	13:17:22.9980	15	Report
+11/15/2019 	13:17:23.0020	15	Grace Period 300
+11/15/2019 	13:17:26.1399	15	Auto Reward Aborted 
+11/15/2019 	13:17:26.1439	15	Miss 1 Aborted 
+11/15/2019 	13:17:26.3458	15	End Recording Aborted 
+11/15/2019 	13:17:26.8241	15	Withdraw Lick Spouts Aborted 
+11/15/2019 	13:17:27.1239	15	Withdraw Aborted 
+11/15/2019 	13:17:27.8520	15	End Trial  Aborted 
+11/15/2019 	13:17:27.9889	16	Begin Trial / Recording
+11/15/2019 	13:17:28.0916	16	Present
+11/15/2019 	13:17:28.9051	16	Direction 1 CCW 40
+11/15/2019 	13:17:29.3048	16	Delay 0
+11/15/2019 	13:17:29.3098	16	Direction 2 CCW 40
+11/15/2019 	13:17:29.7109	16	Report Aborted 
+11/15/2019 	13:17:29.7148	16	Grace Period 300 Aborted 
+11/15/2019 	13:17:32.8838	16	Auto Reward Aborted 
+11/15/2019 	13:17:32.8889	16	Miss 2 Aborted 
+11/15/2019 	13:17:33.2727	16	End Recording Aborted 
+11/15/2019 	13:17:33.7480	16	Withdraw Aborted 
+11/15/2019 	13:17:35.2853	16	End Trial  Aborted 
+11/15/2019 	13:20:42.7423	17	Begin Trial / Recording
+11/15/2019 	13:20:42.8442	17	Present
+11/15/2019 	13:20:43.6588	17	Direction 1 CW 40 Aborted 
+11/15/2019 	13:20:44.0595	17	Delay 0 Aborted 
+11/15/2019 	13:20:44.0635	17	Direction 2 CCW 40 Aborted 
+11/15/2019 	13:20:44.4643	17	Report Aborted 
+11/15/2019 	13:20:44.4703	17	Grace Period 300 Aborted 
+11/15/2019 	13:20:47.6095	17	Reward Aborted 
+11/15/2019 	13:20:47.6145	17	Hit 1 Aborted 
+11/15/2019 	13:20:47.6875	17	End Recording Aborted 
+11/15/2019 	13:20:50.1091	17	Withdraw Aborted 
+11/15/2019 	13:20:50.8406	17	End Trial  Aborted 
+11/15/2019 	13:22:59.8437	18	Begin Trial / Recording
+11/15/2019 	13:22:59.9456	18	Present
+11/15/2019 	13:23:00.7591	18	Direction 1 CCW 40 Aborted 
+11/15/2019 	13:23:01.1609	18	Delay 0 Aborted 
+11/15/2019 	13:23:01.1639	18	Direction 2 CCW 40 Aborted 
+11/15/2019 	13:23:01.5676	18	Report Aborted 
+11/15/2019 	13:23:01.5716	18	Grace Period 300 Aborted 
+11/15/2019 	13:23:04.7109	18	Miss 2 Aborted 
+11/15/2019 	13:23:05.1006	18	End Recording Aborted 
+11/15/2019 	13:23:05.5744	18	Withdraw Aborted 
+11/15/2019 	13:23:07.1088	18	End Trial  Aborted 
+11/15/2019 	13:25:06.7290	19	Begin Trial / Recording
+11/15/2019 	13:25:06.8340	19	Present
+11/15/2019 	13:25:07.6487	19	Direction 1 CW 40 Aborted 
+11/15/2019 	13:25:08.0495	19	Delay 0 Aborted 
+11/15/2019 	13:25:08.0535	19	Direction 2 CCW 40 Aborted 
+11/15/2019 	13:25:08.4533	19	Report Aborted 
+11/15/2019 	13:25:08.4583	19	Grace Period 300 Aborted 
+11/15/2019 	13:25:12.6132	19	Auto Reward Aborted 
+11/15/2019 	13:25:12.6182	19	Miss 1 Aborted 
+11/15/2019 	13:25:12.8211	19	End Recording Aborted 
+11/15/2019 	13:25:13.2959	19	Withdraw Aborted 
+11/15/2019 	13:25:14.0538	19	End Trial  Aborted 
+11/15/2019 	13:29:08.9270	20	Begin Trial / Recording
+11/15/2019 	13:29:09.0289	20	Present
+11/15/2019 	13:29:09.8435	20	Direction 1 CW 40 Aborted 
+11/15/2019 	13:29:10.2455	20	Delay 0 Aborted 
+11/15/2019 	13:29:10.2505	20	Direction 2 CW 40 Aborted 
+11/15/2019 	13:29:10.6553	20	Report Aborted 
+11/15/2019 	13:29:10.6593	20	Grace Period 300 Aborted 
+11/15/2019 	13:29:14.8533	20	Auto Reward Aborted 
+11/15/2019 	13:29:14.8583	20	Miss 2 Aborted 
+11/15/2019 	13:29:15.2362	20	End Recording Aborted 
+11/15/2019 	13:29:15.7169	20	Withdraw Aborted 
+11/15/2019 	13:29:17.2697	20	End Trial  Aborted 
+11/15/2019 	13:30:08.8575	21	Begin Trial / Recording
+11/15/2019 	13:30:08.9605	21	Present
+11/15/2019 	13:30:09.7742	21	Direction 1 CW 40 Aborted 
+11/15/2019 	13:30:10.1760	21	Delay 0 Aborted 
+11/15/2019 	13:30:10.1790	21	Direction 2 CCW 40 Aborted 
+11/15/2019 	13:30:10.5808	21	Report Aborted 
+11/15/2019 	13:30:10.5868	21	Grace Period 300 Aborted 
+11/15/2019 	13:30:14.4201	21	Reward Aborted 
+11/15/2019 	13:30:14.4241	21	Hit 1 Aborted 
+11/15/2019 	13:30:14.4990	21	End Recording Aborted 
+11/15/2019 	13:30:16.9190	21	Withdraw Aborted 
+11/15/2019 	13:30:17.6598	21	End Trial  Aborted 
+11/15/2019 	13:30:37.9985	22	Begin Trial / Recording
+11/15/2019 	13:30:38.0995	22	Present
+11/15/2019 	13:30:38.9141	22	Direction 1 CW 40
+11/15/2019 	13:30:39.3139	22	Delay 0
+11/15/2019 	13:30:39.3169	22	Direction 2 CW 40
+11/15/2019 	13:30:39.7186	22	Report Aborted 
+11/15/2019 	13:30:39.7226	22	Grace Period 300 Aborted 
+11/15/2019 	13:30:43.9005	22	Auto Reward Aborted 
+11/15/2019 	13:30:43.9095	22	Miss 2 Aborted 
+11/15/2019 	13:30:44.2773	22	End Recording Aborted 
+11/15/2019 	13:30:44.7607	22	Withdraw Aborted 
+11/15/2019 	13:30:46.3056	22	End Trial  Aborted 
+11/15/2019 	13:30:46.4580	23	Begin Trial / Recording
+11/15/2019 	13:30:46.5609	23	Present
+11/15/2019 	13:30:47.3766	23	Direction 1 CW 40 Aborted 
+11/15/2019 	13:30:47.7774	23	Delay 0 Aborted 
+11/15/2019 	13:30:47.7804	23	Direction 2 CCW 40 Aborted 
+11/15/2019 	13:30:48.1822	23	Report Aborted 
+11/15/2019 	13:30:48.1862	23	Grace Period 300 Aborted 
+11/15/2019 	13:30:52.3150	23	Auto Reward Aborted 
+11/15/2019 	13:30:52.3260	23	Miss 1 Aborted 
+11/15/2019 	13:30:52.5129	23	End Recording Aborted 
+11/15/2019 	13:30:52.9967	23	Withdraw Aborted 
+11/15/2019 	13:30:53.7374	23	End Trial  Aborted 
+11/15/2019 	13:40:11.0938	24	Begin Trial / Recording
+11/15/2019 	13:40:11.1977	24	Present
+11/15/2019 	13:40:12.0115	24	Direction 1 CW 40 Aborted 
+11/15/2019 	13:40:12.4163	24	Delay 0 Aborted 
+11/15/2019 	13:40:12.4203	24	Direction 2 CW 40 Aborted 
+11/15/2019 	13:40:12.8211	24	Report Aborted 
+11/15/2019 	13:40:12.8260	24	Grace Period 300 Aborted 
+11/15/2019 	13:40:16.9681	24	Auto Reward Aborted 
+11/15/2019 	13:40:16.9741	24	Miss 2 Aborted 
+11/15/2019 	13:40:17.3566	24	End Recording Aborted 
+11/15/2019 	13:40:17.8316	24	Withdraw Aborted 
+11/15/2019 	13:40:19.3732	24	End Trial  Aborted 
+11/15/2019 	13:42:42.9026	25	Begin Trial / Recording
+11/15/2019 	13:42:43.0045	25	Present
+11/15/2019 	13:42:43.8182	25	Direction 1 CW 40 Aborted 
+11/15/2019 	13:42:44.2190	25	Delay 0 Aborted 
+11/15/2019 	13:42:44.2220	25	Direction 2 CCW 40 Aborted 
+11/15/2019 	13:42:44.6220	25	Report Aborted 
+11/15/2019 	13:42:44.6270	25	Grace Period 300 Aborted 
+11/15/2019 	13:42:48.8040	25	Auto Reward Aborted 
+11/15/2019 	13:42:48.8090	25	Miss 1 Aborted 
+11/15/2019 	13:42:49.0129	25	End Recording Aborted 
+11/15/2019 	13:42:49.4876	25	Withdraw Aborted 
+11/15/2019 	13:42:50.2395	25	End Trial  Aborted 
+11/15/2019 	13:42:53.9237	26	Begin Trial / Recording
+11/15/2019 	13:42:54.0237	26	Present
+11/15/2019 	13:42:54.8373	26	Direction 1 CW 40
+11/15/2019 	13:42:55.2370	26	Delay 0 Aborted 
+11/15/2019 	13:42:55.2411	26	Direction 2 CW 40 Aborted 
+11/15/2019 	13:42:55.6428	26	Report Aborted 
+11/15/2019 	13:42:55.6488	26	Grace Period 300 Aborted 
+11/15/2019 	13:42:59.8227	26	Auto Reward Aborted 
+11/15/2019 	13:42:59.8287	26	Miss 2 Aborted 
+11/15/2019 	13:43:00.2107	26	End Recording Aborted 
+11/15/2019 	13:43:00.6860	26	Withdraw Aborted 
+11/15/2019 	13:43:02.2247	26	End Trial  Aborted 
+11/15/2019 	13:43:40.3670	27	Begin Trial / Recording
+11/15/2019 	13:43:40.4690	27	Present
+11/15/2019 	13:43:41.2847	27	Direction 1 CW 40
+11/15/2019 	13:43:41.6846	27	Delay 0 Aborted 
+11/15/2019 	13:43:41.6886	27	Direction 2 CCW 40 Aborted 
+11/15/2019 	13:43:42.0884	27	Report Aborted 
+11/15/2019 	13:43:42.0924	27	Grace Period 300 Aborted 
+11/15/2019 	13:43:46.2542	27	Auto Reward Aborted 
+11/15/2019 	13:43:46.2582	27	Miss 1 Aborted 
+11/15/2019 	13:43:46.4471	27	End Recording Aborted 
+11/15/2019 	13:43:46.9350	27	Withdraw Aborted 
+11/15/2019 	13:43:47.6695	27	End Trial  Aborted 
+11/15/2019 	13:43:47.8057	28	Begin Trial / Recording
+11/15/2019 	13:43:47.9087	28	Present
+11/15/2019 	13:43:48.7222	28	Direction 1 CW 40 Aborted 
+11/15/2019 	13:43:49.1230	28	Delay 0 Aborted 
+11/15/2019 	13:43:49.1260	28	Direction 2 CW 40 Aborted 
+11/15/2019 	13:43:49.5260	28	Report Aborted 
+11/15/2019 	13:43:49.5300	28	Grace Period 300 Aborted 
+11/15/2019 	13:43:53.6893	28	Auto Reward Aborted 
+11/15/2019 	13:43:53.6943	28	Miss 2 Aborted 
+11/15/2019 	13:43:54.0691	28	End Recording Aborted 
+11/15/2019 	13:43:54.5528	28	Withdraw Aborted 
+11/15/2019 	13:43:56.0941	28	End Trial  Aborted 
+11/15/2019 	13:43:56.2365	29	Begin Trial / Recording
+11/15/2019 	13:43:56.3384	29	Present
+11/15/2019 	13:43:57.1537	29	Direction 1 CW 40
+11/15/2019 	13:43:57.5557	29	Delay 0 Aborted 
+11/15/2019 	13:43:57.5587	29	Direction 2 CCW 40 Aborted 
+11/15/2019 	13:43:57.9584	29	Report Aborted 
+11/15/2019 	13:43:57.9624	29	Grace Period 300 Aborted 
+11/15/2019 	13:44:02.0782	29	Auto Reward Aborted 
+11/15/2019 	13:44:02.0862	29	Miss 1 Aborted 
+11/15/2019 	13:44:02.2731	29	End Recording Aborted 
+11/15/2019 	13:44:02.7583	29	Withdraw Aborted 
+11/15/2019 	13:44:03.4896	29	End Trial  Aborted 
+11/15/2019 	13:45:01.2815	30	Begin Trial / Recording
+11/15/2019 	13:45:01.3826	30	Present
+11/15/2019 	13:45:02.1961	30	Direction 1 CCW 40
+11/15/2019 	13:45:02.5989	30	Delay 0
+11/15/2019 	13:45:02.6069	30	Direction 2 CCW 40
+11/15/2019 	13:45:03.0098	30	Report Aborted 
+11/15/2019 	13:45:03.0148	30	Grace Period 300 Aborted 
+11/15/2019 	13:45:07.1956	30	Miss 2 Aborted 
+11/15/2019 	13:45:07.5774	30	End Recording Aborted 
+11/15/2019 	13:45:08.0578	30	Withdraw Aborted 
+11/15/2019 	13:45:09.5895	30	End Trial  Aborted 
+11/15/2019 	13:45:09.7249	31	Begin Trial / Recording
+11/15/2019 	13:45:09.8268	31	Present
+11/15/2019 	13:45:10.6404	31	Direction 1 CW 40 Aborted 
+11/15/2019 	13:45:11.0429	31	Delay 0 Aborted 
+11/15/2019 	13:45:11.0459	31	Direction 2 CCW 40 Aborted 
+11/15/2019 	13:45:11.4467	31	Report Aborted 
+11/15/2019 	13:45:11.4577	31	Grace Period 300 Aborted 
+11/15/2019 	13:45:16.6056	31	Miss 1 Aborted 
+11/15/2019 	13:45:16.8095	31	End Recording Aborted 
+11/15/2019 	13:45:17.2868	31	Withdraw Aborted 
+11/15/2019 	13:45:18.0287	31	End Trial  Aborted 
+11/15/2019 	13:45:18.1707	32	Begin Trial / Recording
+11/15/2019 	13:45:18.2717	32	Present
+11/15/2019 	13:45:19.0853	32	Direction 1 CCW 40
+11/15/2019 	13:45:19.4851	32	Delay 0
+11/15/2019 	13:45:19.4911	32	Direction 2 CCW 40
+11/15/2019 	13:45:20.3916	32	Present Lick Spouts
+11/15/2019 	13:45:20.6915	32	Report
+11/15/2019 	13:45:20.6955	32	Grace Period 300
+11/15/2019 	13:45:25.8653	32	Miss 2 Aborted 
+11/15/2019 	13:45:26.2417	32	End Recording Aborted 
+11/15/2019 	13:45:26.7285	32	Withdraw Lick Spouts Aborted 
+11/15/2019 	13:45:27.0294	32	Withdraw Aborted 
+11/15/2019 	13:45:28.5712	32	End Trial  Aborted 
+11/15/2019 	13:45:28.7082	33	Begin Trial / Recording
+11/15/2019 	13:45:28.8101	33	Present
+11/15/2019 	13:45:29.6256	33	Direction 1 CW 40
+11/15/2019 	13:45:30.0264	33	Delay 0
+11/15/2019 	13:45:30.0294	33	Direction 2 CCW 40
+11/15/2019 	13:45:30.9325	33	Present Lick Spouts
+11/15/2019 	13:45:31.2329	33	Report Aborted 
+11/15/2019 	13:45:31.2369	33	Grace Period 300 Aborted 
+11/15/2019 	13:45:36.4026	33	Miss 1 Aborted 
+11/15/2019 	13:45:36.6035	33	End Recording Aborted 
+11/15/2019 	13:45:37.0832	33	Withdraw Lick Spouts Aborted 
+11/15/2019 	13:45:37.3831	33	Withdraw Aborted 
+11/15/2019 	13:45:38.1194	33	End Trial  Aborted 
+11/15/2019 	13:45:51.5050	34	Begin Trial / Recording
+11/15/2019 	13:45:51.6069	34	Present
+11/15/2019 	13:45:52.4215	34	Direction 1 CW 40
+11/15/2019 	13:45:52.8222	34	Delay 0 Aborted 
+11/15/2019 	13:45:52.8252	34	Direction 2 CW 40 Aborted 
+11/15/2019 	13:45:53.2250	34	Report Aborted 
+11/15/2019 	13:45:53.2290	34	Grace Period 300 Aborted 
+11/15/2019 	13:45:58.4080	34	Miss 2 Aborted 
+11/15/2019 	13:45:58.7899	34	End Recording Aborted 
+11/15/2019 	13:45:59.2726	34	Withdraw Aborted 
+11/15/2019 	13:46:00.8247	34	End Trial  Aborted 
+11/15/2019 	13:46:00.9610	35	Begin Trial / Recording
+11/15/2019 	13:46:01.0640	35	Present
+11/15/2019 	13:46:01.8785	35	Direction 1 CW 40
+11/15/2019 	13:46:02.2790	35	Delay 0 Aborted 
+11/15/2019 	13:46:02.2820	35	Direction 2 CCW 40 Aborted 
+11/15/2019 	13:46:02.6838	35	Report Aborted 
+11/15/2019 	13:46:02.6898	35	Grace Period 300 Aborted 
+11/15/2019 	13:46:07.8578	35	Miss 1 Aborted 
+11/15/2019 	13:46:08.0587	35	End Recording Aborted 
+11/15/2019 	13:46:08.5424	35	Withdraw Aborted 
+11/15/2019 	13:46:09.2839	35	End Trial  Aborted 
+11/15/2019 	13:46:09.4208	36	Begin Trial / Recording
+11/15/2019 	13:46:09.5221	36	Present
+11/15/2019 	13:46:10.3362	36	Direction 1 CCW 40
+11/15/2019 	13:46:10.7359	36	Delay 0
+11/15/2019 	13:46:10.7389	36	Direction 2 CCW 40
+11/15/2019 	13:46:11.6405	36	Present Lick Spouts
+11/15/2019 	13:46:11.9413	36	Report
+11/15/2019 	13:46:11.9453	36	Grace Period 300
+11/15/2019 	13:46:17.1084	36	Auto Reward Aborted 
+11/15/2019 	13:46:17.1144	36	Miss 2 Aborted 
+11/15/2019 	13:46:17.4955	36	End Recording Aborted 
+11/15/2019 	13:46:17.9708	36	Withdraw Lick Spouts Aborted 
+11/15/2019 	13:46:18.2706	36	Withdraw Aborted 
+11/15/2019 	13:46:19.8156	36	End Trial  Aborted 
+11/15/2019 	13:51:58.0002	37	Begin Trial / Recording
+11/15/2019 	13:51:58.1031	37	Present
+11/15/2019 	13:51:58.9179	37	Direction 1 CW 40
+11/15/2019 	13:51:59.3196	37	Delay 0
+11/15/2019 	13:51:59.3226	37	Direction 2 CCW 40
+11/15/2019 	13:52:00.2241	37	Present Lick Spouts
+11/15/2019 	13:52:00.5250	37	Report Aborted 
+11/15/2019 	13:52:00.5299	37	Grace Period 300 Aborted 
+11/15/2019 	13:52:05.7153	37	Auto Reward Aborted 
+11/15/2019 	13:52:05.7213	37	Miss 1 Aborted 
+11/15/2019 	13:52:05.9217	37	End Recording Aborted 
+11/15/2019 	13:52:06.3977	37	Withdraw Lick Spouts Aborted 
+11/15/2019 	13:52:06.6976	37	Withdraw Aborted 
+11/15/2019 	13:52:07.4346	37	End Trial  Aborted 
+11/15/2019 	14:53:02.3786	38	Begin Trial / Recording
+11/15/2019 	14:53:02.4816	38	Present
+11/15/2019 	14:53:03.2951	38	Direction 1 CW 40
+11/15/2019 	14:53:03.6950	38	Delay 0
+11/15/2019 	14:53:03.6980	38	Direction 2 CW 40
+11/15/2019 	14:53:04.5979	38	Present Lick Spouts
+11/15/2019 	14:53:04.8989	38	Report
+11/15/2019 	14:53:04.9029	38	Grace Period 300
+11/15/2019 	14:53:08.7211	38	Reward Aborted 
+11/15/2019 	14:53:08.7261	38	Hit 2 Aborted 
+11/15/2019 	14:53:08.9760	38	End Recording Aborted 
+11/15/2019 	14:53:11.2220	38	Withdraw Lick Spouts Aborted 
+11/15/2019 	14:53:11.5248	38	Withdraw Aborted 
+11/15/2019 	14:53:13.0697	38	End Trial  Aborted 
+11/15/2019 	15:35:27.6438	39	Begin Trial / Recording
+11/15/2019 	15:35:27.7449	39	Present
+11/15/2019 	15:35:28.5594	39	Direction 1 CW 40
+11/15/2019 	15:35:28.9602	39	Delay 0
+11/15/2019 	15:35:28.9642	39	Direction 2 CCW 40
+11/15/2019 	15:35:29.8657	39	Present Lick Spouts
+11/15/2019 	15:35:30.1655	39	Report
+11/15/2019 	15:35:30.1695	39	Grace Period 300
+11/15/2019 	15:35:35.3017	39	Auto Reward Aborted 
+11/15/2019 	15:35:35.3077	39	Miss 1 Aborted 
+11/15/2019 	15:35:35.5075	39	End Recording Aborted 
+11/15/2019 	15:35:35.9833	39	Withdraw Lick Spouts Aborted 
+11/15/2019 	15:35:36.2831	39	Withdraw Aborted 
+11/15/2019 	15:35:37.0141	39	End Trial  Aborted 
+11/15/2019 	15:35:37.3447	40	Begin Trial / Recording
+11/15/2019 	15:35:37.4466	40	Present
+11/15/2019 	15:35:38.2602	40	Direction 1 CCW 40
+11/15/2019 	15:35:38.6599	40	Delay 0
+11/15/2019 	15:35:38.6639	40	Direction 2 CCW 40
+11/15/2019 	15:35:39.5654	40	Present Lick Spouts
+11/15/2019 	15:35:39.8652	40	Report
+11/15/2019 	15:35:39.8692	40	Grace Period 300
+11/15/2019 	15:35:45.0635	40	Auto Reward Aborted 
+11/15/2019 	15:35:45.0675	40	Miss 2 Aborted 
+11/15/2019 	15:35:45.4423	40	End Recording Aborted 
+11/15/2019 	15:35:45.9240	40	Withdraw Lick Spouts Aborted 
+11/15/2019 	15:35:46.2243	40	Withdraw Aborted 
+11/15/2019 	15:35:47.7684	40	End Trial  Aborted 
+11/15/2019 	15:36:53.4876	41	Begin Trial / Recording
+11/15/2019 	15:36:53.5875	41	Present
+11/15/2019 	15:36:54.4012	41	Direction 1 CW 40
+11/15/2019 	15:36:54.8009	41	Delay 0
+11/15/2019 	15:36:54.8039	41	Direction 2 CCW 40
+11/15/2019 	15:36:55.7065	41	Present Lick Spouts
+11/15/2019 	15:36:56.0073	41	Report
+11/15/2019 	15:36:56.0113	41	Grace Period 300
+11/15/2019 	15:37:01.1404	41	Auto Reward Aborted 
+11/15/2019 	15:37:01.1444	41	Miss 1 Aborted 
+11/15/2019 	15:37:01.3292	41	End Recording Aborted 
+11/15/2019 	15:37:01.8210	41	Withdraw Lick Spouts Aborted 
+11/15/2019 	15:37:02.1238	41	Withdraw Aborted 
+11/15/2019 	15:37:02.8750	41	End Trial  Aborted 
+11/15/2019 	15:37:03.0170	42	Begin Trial / Recording
+11/15/2019 	15:37:03.1190	42	Present
+11/15/2019 	15:37:03.9345	42	Direction 1 CCW 40
+11/15/2019 	15:37:04.3353	42	Delay 0
+11/15/2019 	15:37:04.3383	42	Direction 2 CCW 40
+11/15/2019 	15:37:05.2381	42	Present Lick Spouts
+11/15/2019 	15:37:05.5379	42	Report
+11/15/2019 	15:37:05.5419	42	Grace Period 300
+11/15/2019 	15:37:10.6709	42	Miss 2 Aborted 
+11/15/2019 	15:37:11.0474	42	End Recording Aborted 
+11/15/2019 	15:37:11.5351	42	Withdraw Lick Spouts Aborted 
+11/15/2019 	15:37:11.8349	42	Withdraw Aborted 
+11/15/2019 	15:37:13.3881	42	End Trial  Aborted 
+11/15/2019 	15:37:13.5380	43	Begin Trial / Recording
+11/15/2019 	15:37:13.6409	43	Present
+11/15/2019 	15:37:14.4550	43	Direction 1 CW 40
+11/15/2019 	15:37:14.8588	43	Delay 0
+11/15/2019 	15:37:14.8618	43	Direction 2 CCW 40
+11/15/2019 	15:37:15.2645	43	Report Aborted 
+11/15/2019 	15:37:15.2685	43	Grace Period 300 Aborted 
+11/15/2019 	15:37:20.4176	43	Miss 1 Aborted 
+11/15/2019 	15:37:20.6215	43	End Recording Aborted 
+11/15/2019 	15:37:21.0993	43	Withdraw Aborted 
+11/15/2019 	15:37:21.8370	43	End Trial  Aborted 
+11/15/2019 	15:39:27.7156	44	Begin Trial / Recording
+11/15/2019 	15:39:27.8175	44	Present Aborted 
+11/15/2019 	15:39:28.6310	44	Direction 1 CW 40 Aborted 
+11/15/2019 	15:39:29.0348	44	Delay 0 Aborted 
+11/15/2019 	15:39:29.0378	44	Direction 2 CW 40 Aborted 
+11/15/2019 	15:39:29.4386	44	Report Aborted 
+11/15/2019 	15:39:29.4446	44	Grace Period 300 Aborted 
+11/15/2019 	15:39:34.5739	44	Miss 2 Aborted 
+11/15/2019 	15:39:34.9656	44	End Recording Aborted 
+11/15/2019 	15:39:35.4384	44	Withdraw Aborted 
+11/15/2019 	15:39:36.9725	44	End Trial  Aborted 
+11/15/2019 	15:39:37.1175	45	Begin Trial / Recording
+11/15/2019 	15:39:37.2204	45	Present
+11/15/2019 	15:39:38.0340	45	Direction 1 CW 40
+11/15/2019 	15:39:38.4357	45	Delay 0
+11/15/2019 	15:39:38.4387	45	Direction 2 CCW 40
+11/15/2019 	15:39:39.3402	45	Present Lick Spouts Aborted 
+11/15/2019 	15:39:39.6411	45	Report Aborted 
+11/15/2019 	15:39:39.6471	45	Grace Period 300 Aborted 
+11/15/2019 	15:39:44.8096	45	Miss 1 Aborted 
+11/15/2019 	15:39:45.0157	45	End Recording Aborted 
+11/15/2019 	15:39:45.4917	45	Withdraw Lick Spouts Aborted 
+11/15/2019 	15:39:45.7915	45	Withdraw Aborted 
+11/15/2019 	15:39:46.5300	45	End Trial  Aborted 
+11/15/2019 	15:39:56.9919	46	Begin Trial / Recording
+11/15/2019 	15:39:57.0948	46	Present
+11/15/2019 	15:39:57.9084	46	Direction 1 CCW 40
+11/15/2019 	15:39:58.3101	46	Delay 0
+11/15/2019 	15:39:58.3131	46	Direction 2 CCW 40
+11/15/2019 	15:39:59.2147	46	Present Lick Spouts
+11/15/2019 	15:39:59.5155	46	Report
+11/15/2019 	15:39:59.5195	46	Grace Period 300
+11/15/2019 	15:40:04.6453	46	Miss 2 Aborted 
+11/15/2019 	15:40:05.0241	46	End Recording Aborted 
+11/15/2019 	15:40:05.5064	46	Withdraw Lick Spouts Aborted 
+11/15/2019 	15:40:05.8072	46	Withdraw Aborted 
+11/15/2019 	15:40:07.3442	46	End Trial  Aborted 
+11/15/2019 	15:50:25.1926	47	Begin Trial / Recording
+11/15/2019 	15:50:25.2945	47	Present
+11/15/2019 	15:50:26.1081	47	Direction 1 CW 40 Aborted 
+11/15/2019 	15:50:26.5079	47	Delay 0 Aborted 
+11/15/2019 	15:50:26.5109	47	Direction 2 CCW 40 Aborted 
+11/15/2019 	15:50:26.9116	47	Report Aborted 
+11/15/2019 	15:50:26.9156	47	Grace Period 300 Aborted 
+11/15/2019 	15:50:32.0797	47	Miss 1 Aborted 
+11/15/2019 	15:50:32.2746	47	End Recording Aborted 
+11/15/2019 	15:50:32.7604	47	Withdraw Aborted 
+11/15/2019 	15:50:33.4963	47	End Trial  Aborted 
+11/15/2019 	17:25:51.1400	48	Begin Trial / Recording
+11/15/2019 	17:25:51.2429	48	Present
+11/15/2019 	17:25:52.0575	48	Direction 1 CW 40 Aborted 
+11/15/2019 	17:25:52.4583	48	Delay 0 Aborted 
+11/15/2019 	17:25:52.4623	48	Direction 2 CW 40 Aborted 
+11/15/2019 	17:25:52.8641	48	Report Aborted 
+11/15/2019 	17:25:52.8701	48	Grace Period 300 Aborted 
+11/15/2019 	17:25:58.0531	48	Auto Reward Aborted 
+11/15/2019 	17:25:58.0581	48	Miss 2 Aborted 
+11/15/2019 	17:25:58.4449	48	End Recording Aborted 
+11/15/2019 	17:25:58.9199	48	Withdraw Aborted 
+11/15/2019 	17:26:00.4665	48	End Trial  Aborted 
+11/15/2019 	17:26:00.6069	49	Begin Trial / Recording
+11/15/2019 	17:26:00.7088	49	Present
+11/15/2019 	17:26:01.5233	49	Direction 1 CW 40
+11/15/2019 	17:26:01.9251	49	Delay 0
+11/15/2019 	17:26:01.9281	49	Direction 2 CCW 40
+11/15/2019 	17:26:02.8292	49	Present Lick Spouts
+11/15/2019 	17:26:03.1290	49	Report
+11/15/2019 	17:26:03.1340	49	Grace Period 300
+11/15/2019 	17:26:08.2809	49	Auto Reward Aborted 
+11/15/2019 	17:26:08.2859	49	Miss 1 Aborted 
+11/15/2019 	17:26:08.4781	49	End Recording Aborted 
+11/15/2019 	17:26:08.9629	49	Withdraw Lick Spouts Aborted 
+11/15/2019 	17:26:09.2664	49	Withdraw Aborted 
+11/15/2019 	17:26:10.0087	49	End Trial  Aborted 
+11/15/2019 	17:26:46.5213	50	Begin Trial / Recording
+11/15/2019 	17:26:46.6222	50	Present Aborted 
+11/15/2019 	17:26:47.4378	50	Direction 1 CCW 40 Aborted 
+11/15/2019 	17:26:47.8386	50	Delay 0 Aborted 
+11/15/2019 	17:26:47.8416	50	Direction 2 CCW 40 Aborted 
+11/15/2019 	17:26:48.2423	50	Report Aborted 
+11/15/2019 	17:26:48.2473	50	Grace Period 300 Aborted 
+11/15/2019 	17:26:53.4025	50	Auto Reward Aborted 
+11/15/2019 	17:26:53.4085	50	Miss 2 Aborted 
+11/15/2019 	17:26:53.7872	50	End Recording Aborted 
+11/15/2019 	17:26:54.2650	50	Withdraw Aborted 
+11/15/2019 	17:26:55.8140	50	End Trial  Aborted 
+11/15/2019 	18:36:43.3620	51	Begin Trial / Recording
+11/15/2019 	18:36:43.4640	51	Present Aborted 
+11/15/2019 	18:36:44.2796	51	Direction 1 CW 40 Aborted 
+11/15/2019 	18:36:44.6804	51	Delay 0 Aborted 
+11/15/2019 	18:36:44.6844	51	Direction 2 CCW 40 Aborted 
+11/15/2019 	18:36:45.0852	51	Report Aborted 
+11/15/2019 	18:36:45.0912	51	Grace Period 300 Aborted 
+11/15/2019 	18:36:49.0450	51	Auto Reward Aborted 
+11/15/2019 	18:36:49.0490	51	FA 1 Aborted 
+11/15/2019 	18:36:49.1909	51	End Recording Aborted 
+11/15/2019 	18:36:49.6687	51	Withdraw Aborted 
+11/15/2019 	18:36:50.4129	51	End Trial  Aborted 
+11/15/2019 	18:36:50.5520	52	Begin Trial / Recording
+11/15/2019 	18:36:50.6540	52	Present
+11/15/2019 	18:36:51.4685	52	Direction 1 CCW 40 Aborted 
+11/15/2019 	18:36:51.8693	52	Delay 0 Aborted 
+11/15/2019 	18:36:51.8723	52	Direction 2 CCW 40 Aborted 
+11/15/2019 	18:36:52.2740	52	Report Aborted 
+11/15/2019 	18:36:52.2780	52	Grace Period 300 Aborted 
+11/15/2019 	18:36:57.4182	52	Auto Reward Aborted 
+11/15/2019 	18:36:57.4232	52	Miss 2 Aborted 
+11/15/2019 	18:36:57.7920	52	End Recording Aborted 
+11/15/2019 	18:36:58.2838	52	Withdraw Aborted 
+11/15/2019 	18:36:59.8183	52	End Trial  Aborted 
+11/15/2019 	18:37:34.1844	53	Begin Trial / Recording
+11/15/2019 	18:37:34.2863	53	Present
+11/15/2019 	18:37:35.0998	53	Direction 1 CW 40
+11/15/2019 	18:37:35.5026	53	Delay 0
+11/15/2019 	18:37:35.5056	53	Direction 2 CCW 40
+11/15/2019 	18:37:36.4072	53	Present Lick Spouts
+11/15/2019 	18:37:36.7070	53	Report
+11/15/2019 	18:37:36.7120	53	Grace Period 300
+11/15/2019 	18:37:41.9100	53	Auto Reward Aborted 
+11/15/2019 	18:37:41.9140	53	Miss 1 Aborted 
+11/15/2019 	18:37:42.1109	53	End Recording Aborted 
+11/15/2019 	18:37:42.5926	53	Withdraw Lick Spouts Aborted 
+11/15/2019 	18:37:42.8921	53	Withdraw Aborted 
+11/15/2019 	18:37:43.6439	53	End Trial  Aborted 
+11/15/2019 	18:37:43.9845	54	Begin Trial / Recording
+11/15/2019 	18:37:44.0865	54	Present
+11/15/2019 	18:37:44.9000	54	Direction 1 CCW 40
+11/15/2019 	18:37:45.3018	54	Delay 0 Aborted 
+11/15/2019 	18:37:45.3048	54	Direction 2 CCW 40 Aborted 
+11/15/2019 	18:37:45.7045	54	Report Aborted 
+11/15/2019 	18:37:45.7085	54	Grace Period 300 Aborted 
+11/15/2019 	18:37:48.6459	54	Auto Reward Aborted 
+11/15/2019 	18:37:48.6539	54	FA 2 Aborted 
+11/15/2019 	18:37:48.9707	54	End Recording Aborted 
+11/15/2019 	18:37:49.4490	54	Withdraw Aborted 
+11/15/2019 	18:37:50.9903	54	End Trial  Aborted 
+11/15/2019 	19:13:14.9018	55	Begin Trial / Recording
+11/15/2019 	19:13:15.0047	55	Present
+11/15/2019 	19:13:15.8183	55	Direction 1 CW 40 Aborted 
+11/15/2019 	19:13:16.2200	55	Delay 0 Aborted 
+11/15/2019 	19:13:16.2230	55	Direction 2 CCW 40 Aborted 
+11/15/2019 	19:13:16.6258	55	Report Aborted 
+11/15/2019 	19:13:16.6298	55	Grace Period 300 Aborted 
+11/15/2019 	19:13:21.7469	55	Miss 1 Aborted 
+11/15/2019 	19:13:21.9388	55	End Recording Aborted 
+11/15/2019 	19:13:22.4295	55	Withdraw Aborted 
+11/15/2019 	19:13:23.1787	55	End Trial  Aborted 
+11/15/2019 	19:13:24.4054	56	Begin Trial / Recording
+11/15/2019 	19:13:24.5064	56	Present
+11/15/2019 	19:13:25.3199	56	Direction 1 CW 40 Aborted 
+11/15/2019 	19:13:25.7227	56	Delay 0 Aborted 
+11/15/2019 	19:13:25.7257	56	Direction 2 CW 40 Aborted 
+11/15/2019 	19:13:26.1271	56	Report Aborted 
+11/15/2019 	19:13:26.1321	56	Grace Period 300 Aborted 
+11/15/2019 	19:13:31.3081	56	Miss 2 Aborted 
+11/15/2019 	19:13:31.6944	56	End Recording Aborted 
+11/15/2019 	19:13:32.1702	56	Withdraw Aborted 
+11/15/2019 	19:13:33.7115	56	End Trial  Aborted 
+11/15/2019 	19:13:33.8446	57	Begin Trial / Recording
+11/15/2019 	19:13:33.9456	57	Present Aborted 
+11/15/2019 	19:13:34.7591	57	Direction 1 CW 40 Aborted 
+11/15/2019 	19:13:35.1589	57	Delay 0 Aborted 
+11/15/2019 	19:13:35.1639	57	Direction 2 CCW 40 Aborted 
+11/15/2019 	19:13:35.5653	57	Report Aborted 
+11/15/2019 	19:13:35.5693	57	Grace Period 300 Aborted 
+11/15/2019 	19:13:40.7049	57	Miss 1 Aborted 
+11/15/2019 	19:13:40.9075	57	End Recording Aborted 
+11/15/2019 	19:13:41.3852	57	Withdraw Aborted 
+11/15/2019 	19:13:42.1239	57	End Trial  Aborted 
+11/15/2019 	19:14:03.2139	58	Begin Trial / Recording
+11/15/2019 	19:14:03.3159	58	Present Aborted 
+11/15/2019 	19:14:04.1305	58	Direction 1 CCW 40 Aborted 
+11/15/2019 	19:14:04.5303	58	Delay 0 Aborted 
+11/15/2019 	19:14:04.5343	58	Direction 2 CCW 40 Aborted 
+11/15/2019 	19:14:04.9360	58	Report Aborted 
+11/15/2019 	19:14:04.9421	58	Grace Period 300 Aborted 
+11/15/2019 	19:14:10.0521	58	Miss 2 Aborted 
+11/15/2019 	19:14:10.4349	58	End Recording Aborted 
+11/15/2019 	19:14:10.9136	58	Withdraw Aborted 
+11/15/2019 	19:14:12.4548	58	End Trial  Aborted 
+11/15/2019 	19:14:32.8882	59	Begin Trial / Recording
+11/15/2019 	19:14:32.9911	59	Present
+11/15/2019 	19:14:33.8057	59	Direction 1 CW 40
+11/15/2019 	19:14:34.2074	59	Delay 0
+11/15/2019 	19:14:34.2104	59	Direction 2 CCW 40
+11/15/2019 	19:14:34.6102	59	Report Aborted 
+11/15/2019 	19:14:34.6142	59	Grace Period 300 Aborted 
+11/15/2019 	19:14:39.8083	59	Miss 1 Aborted 
+11/15/2019 	19:14:40.0042	59	End Recording Aborted 
+11/15/2019 	19:14:40.4879	59	Withdraw Aborted 
+11/15/2019 	19:14:41.2327	59	End Trial  Aborted 
+11/15/2019 	19:14:41.3699	60	Begin Trial / Recording
+11/15/2019 	19:14:41.4709	60	Present
+11/15/2019 	19:14:42.2854	60	Direction 1 CW 40
+11/15/2019 	19:14:42.6852	60	Delay 0
+11/15/2019 	19:14:42.6882	60	Direction 2 CW 40
+11/15/2019 	19:14:43.0890	60	Report Aborted 
+11/15/2019 	19:14:43.0960	60	Grace Period 300 Aborted 
+11/15/2019 	19:14:48.2196	60	Auto Reward Aborted 
+11/15/2019 	19:14:48.2256	60	Miss 2 Aborted 
+11/15/2019 	19:14:48.6065	60	End Recording Aborted 
+11/15/2019 	19:14:49.0812	60	Withdraw Aborted 
+11/15/2019 	19:14:50.6309	60	End Trial  Aborted 
+11/15/2019 	19:14:50.7720	61	Begin Trial / Recording
+11/15/2019 	19:14:50.8730	61	Present
+11/15/2019 	19:14:51.6875	61	Direction 1 CW 40 Aborted 
+11/15/2019 	19:14:52.0873	61	Delay 0 Aborted 
+11/15/2019 	19:14:52.0903	61	Direction 2 CCW 40 Aborted 
+11/15/2019 	19:14:52.4901	61	Report Aborted 
+11/15/2019 	19:14:52.4951	61	Grace Period 300 Aborted 
+11/15/2019 	19:14:57.6324	61	Auto Reward Aborted 
+11/15/2019 	19:14:57.6364	61	FA 1 Aborted 
+11/15/2019 	19:14:57.7733	61	End Recording Aborted 
+11/15/2019 	19:14:58.2531	61	Withdraw Aborted 
+11/15/2019 	19:14:58.9984	61	End Trial  Aborted 
+11/15/2019 	19:15:33.4590	62	Begin Trial / Recording
+11/15/2019 	19:15:33.5609	62	Present
+11/15/2019 	19:15:34.3755	62	Direction 1 CCW 40
+11/15/2019 	19:15:34.7763	62	Delay 0 Aborted 
+11/15/2019 	19:15:34.7793	62	Direction 2 CCW 40 Aborted 
+11/15/2019 	19:15:35.1821	62	Report Aborted 
+11/15/2019 	19:15:35.1861	62	Grace Period 300 Aborted 
+11/15/2019 	19:15:40.3457	62	Auto Reward Aborted 
+11/15/2019 	19:15:40.3506	62	Miss 2 Aborted 
+11/15/2019 	19:15:40.7225	62	End Recording Aborted 
+11/15/2019 	19:15:41.2077	62	Withdraw Aborted 
+11/15/2019 	19:15:42.7627	62	End Trial  Aborted 
+11/15/2019 	19:20:04.9633	63	Begin Trial / Recording
+11/15/2019 	19:20:05.0644	63	Present
+11/15/2019 	19:20:05.8779	63	Direction 1 CW 40 Aborted 
+11/15/2019 	19:20:06.2807	63	Delay 0 Aborted 
+11/15/2019 	19:20:06.2857	63	Direction 2 CCW 40 Aborted 
+11/15/2019 	19:20:06.6864	63	Report Aborted 
+11/15/2019 	19:20:06.6945	63	Grace Period 300 Aborted 
+11/15/2019 	19:20:09.3018	63	Reward Aborted 
+11/15/2019 	19:20:09.3068	63	Hit 1 Aborted 
+11/15/2019 	19:20:09.3808	63	End Recording Aborted 
+11/15/2019 	19:20:11.8021	63	Withdraw Aborted 
+11/15/2019 	19:20:12.5479	63	End Trial  Aborted 
+11/15/2019 	19:20:13.6508	64	Begin Trial / Recording
+11/15/2019 	19:20:13.7508	64	Present
+11/15/2019 	19:20:14.5643	64	Direction 1 CCW 40 Aborted 
+11/15/2019 	19:20:14.9641	64	Delay 0 Aborted 
+11/15/2019 	19:20:14.9681	64	Direction 2 CCW 40 Aborted 
+11/15/2019 	19:20:15.3678	64	Report Aborted 
+11/15/2019 	19:20:15.3719	64	Grace Period 300 Aborted 
+11/15/2019 	19:20:20.5343	64	Auto Reward Aborted 
+11/15/2019 	19:20:20.5393	64	Miss 2 Aborted 
+11/15/2019 	19:20:20.9151	64	End Recording Aborted 
+11/15/2019 	19:20:21.4008	64	Withdraw Aborted 
+11/15/2019 	19:20:22.9513	64	End Trial  Aborted 
+11/15/2019 	19:20:47.6517	65	Begin Trial / Recording
+11/15/2019 	19:20:47.7526	65	Present
+11/15/2019 	19:20:48.5662	65	Direction 1 CW 40
+11/15/2019 	19:20:48.9660	65	Delay 0
+11/15/2019 	19:20:48.9700	65	Direction 2 CCW 40
+11/15/2019 	19:20:49.8724	65	Present Lick Spouts
+11/15/2019 	19:20:50.1723	65	Report
+11/15/2019 	19:20:50.1773	65	Grace Period 300
+11/15/2019 	19:20:55.3694	65	Auto Reward Aborted 
+11/15/2019 	19:20:55.3744	65	Miss 1 Aborted 
+11/15/2019 	19:20:55.5703	65	End Recording Aborted 
+11/15/2019 	19:20:56.0510	65	Withdraw Lick Spouts Aborted 
+11/15/2019 	19:20:56.3528	65	Withdraw Aborted 
+11/15/2019 	19:20:57.1067	65	End Trial  Aborted 
+11/15/2019 	19:20:57.2479	66	Begin Trial / Recording
+11/15/2019 	19:20:57.3498	66	Present
+11/15/2019 	19:20:58.1644	66	Direction 1 CCW 40
+11/15/2019 	19:20:58.5653	66	Delay 0
+11/15/2019 	19:20:58.5683	66	Direction 2 CCW 40
+11/15/2019 	19:20:58.9681	66	Report Aborted 
+11/15/2019 	19:20:58.9721	66	Grace Period 300 Aborted 
+11/15/2019 	19:21:04.1539	66	Miss 2 Aborted 
+11/15/2019 	19:21:04.5387	66	End Recording Aborted 
+11/15/2019 	19:21:05.0160	66	Withdraw Aborted 
+11/15/2019 	19:21:06.5551	66	End Trial  Aborted 
+11/15/2019 	19:21:06.6981	67	Begin Trial / Recording
+11/15/2019 	19:21:06.7985	67	Present
+11/15/2019 	19:21:07.6125	67	Direction 1 CW 40
+11/15/2019 	19:21:08.0123	67	Delay 0
+11/15/2019 	19:21:08.0153	67	Direction 2 CCW 40
+11/15/2019 	19:21:08.9150	67	Present Lick Spouts
+11/15/2019 	19:21:09.2158	67	Report
+11/15/2019 	19:21:09.2218	67	Grace Period 300
+11/15/2019 	19:21:14.3797	67	Miss 1 Aborted 
+11/15/2019 	19:21:14.5686	67	End Recording Aborted 
+11/15/2019 	19:21:15.0590	67	Withdraw Lick Spouts Aborted 
+11/15/2019 	19:21:15.3608	67	Withdraw Aborted 
+11/15/2019 	19:21:16.1075	67	End Trial  Aborted 
+11/15/2019 	19:21:16.2577	68	Begin Trial / Recording
+11/15/2019 	19:21:16.3596	68	Present
+11/15/2019 	19:21:17.1733	68	Direction 1 CW 40
+11/15/2019 	19:21:17.5741	68	Delay 0 Aborted 
+11/15/2019 	19:21:17.5771	68	Direction 2 CW 40 Aborted 
+11/15/2019 	19:21:17.9769	68	Report Aborted 
+11/15/2019 	19:21:17.9829	68	Grace Period 300 Aborted 
+11/15/2019 	19:21:21.3492	68	Reward Aborted 
+11/15/2019 	19:21:21.3532	68	Hit 2 Aborted 
+11/15/2019 	19:21:21.6010	68	End Recording Aborted 
+11/15/2019 	19:21:23.8505	68	Withdraw Aborted 
+11/15/2019 	19:21:25.3809	68	End Trial  Aborted 
+11/15/2019 	19:21:25.5129	69	Begin Trial / Recording
+11/15/2019 	19:21:25.6148	69	Present
+11/15/2019 	19:21:26.4289	69	Direction 1 CW 40
+11/15/2019 	19:21:26.8317	69	Delay 0
+11/15/2019 	19:21:26.8347	69	Direction 2 CCW 40
+11/15/2019 	19:21:27.7357	69	Present Lick Spouts
+11/15/2019 	19:21:28.0351	69	Report Aborted 
+11/15/2019 	19:21:28.0391	69	Grace Period 300 Aborted 
+11/15/2019 	19:21:33.2138	69	Miss 1 Aborted 
+11/15/2019 	19:21:33.4167	69	End Recording Aborted 
+11/15/2019 	19:21:33.8960	69	Withdraw Lick Spouts Aborted 
+11/15/2019 	19:21:34.1998	69	Withdraw Aborted 
+11/15/2019 	19:21:34.9507	69	End Trial  Aborted 
+11/15/2019 	19:21:35.0903	70	Begin Trial / Recording
+11/15/2019 	19:21:35.1931	70	Present
+11/15/2019 	19:21:36.0077	70	Direction 1 CW 40
+11/15/2019 	19:21:36.4098	70	Delay 0
+11/15/2019 	19:21:36.4148	70	Direction 2 CW 40
+11/15/2019 	19:21:37.3173	70	Present Lick Spouts
+11/15/2019 	19:21:37.6171	70	Report
+11/15/2019 	19:21:37.6211	70	Grace Period 300
+11/15/2019 	19:21:42.7630	70	Miss 2 Aborted 
+11/15/2019 	19:21:43.1358	70	End Recording Aborted 
+11/15/2019 	19:21:43.6251	70	Withdraw Lick Spouts Aborted 
+11/15/2019 	19:21:43.9269	70	Withdraw Aborted 
+11/15/2019 	19:21:45.4789	70	End Trial  Aborted 
+11/15/2019 	19:21:47.4546	71	Begin Trial / Recording
+11/15/2019 	19:21:47.5565	71	Present
+11/15/2019 	19:21:48.3701	71	Direction 1 CW 40
+11/15/2019 	19:21:48.7698	71	Delay 0
+11/15/2019 	19:21:48.7728	71	Direction 2 CCW 40
+11/15/2019 	19:21:49.6743	71	Present Lick Spouts
+11/15/2019 	19:21:49.9742	71	Report
+11/15/2019 	19:21:49.9782	71	Grace Period 300
+11/15/2019 	19:21:55.1723	71	Miss 1 Aborted 
+11/15/2019 	19:21:55.3742	71	End Recording Aborted 
+11/15/2019 	19:21:55.8552	71	Withdraw Lick Spouts Aborted 
+11/15/2019 	19:21:56.1551	71	Withdraw Aborted 
+11/15/2019 	19:21:56.9037	71	End Trial  Aborted 
+11/15/2019 	19:21:57.0415	72	Begin Trial / Recording
+11/15/2019 	19:21:57.1424	72	Present
+11/15/2019 	19:21:57.9563	72	Direction 1 CW 40
+11/15/2019 	19:21:58.3571	72	Delay 0
+11/15/2019 	19:21:58.3611	72	Direction 2 CW 40
+11/15/2019 	19:21:59.2609	72	Present Lick Spouts
+11/15/2019 	19:21:59.5647	72	Report
+11/15/2019 	19:21:59.5747	72	Grace Period 300
+11/15/2019 	19:22:04.7208	72	Auto Reward Aborted 
+11/15/2019 	19:22:04.7268	72	Miss 2 Aborted 
+11/15/2019 	19:22:05.1094	72	End Recording Aborted 
+11/15/2019 	19:22:05.5836	72	Withdraw Lick Spouts Aborted 
+11/15/2019 	19:22:05.8840	72	Withdraw Aborted 
+11/15/2019 	19:22:07.4322	72	End Trial  Aborted 
+11/15/2019 	19:22:17.4581	73	Begin Trial / Recording
+11/15/2019 	19:22:17.5601	73	Present
+11/15/2019 	19:22:18.3746	73	Direction 1 CW 40
+11/15/2019 	19:22:18.7754	73	Delay 0
+11/15/2019 	19:22:18.7784	73	Direction 2 CCW 40
+11/15/2019 	19:22:19.6809	73	Present Lick Spouts
+11/15/2019 	19:22:19.9827	73	Report
+11/15/2019 	19:22:19.9867	73	Grace Period 300
+11/15/2019 	19:22:23.2209	73	Auto Reward
+11/15/2019 	19:22:23.2249	73	FA 1
+11/15/2019 	19:22:23.3538	73	End Recording
+11/15/2019 	19:22:23.8426	73	Withdraw Lick Spouts
+11/15/2019 	19:22:24.1423	73	Withdraw
+11/15/2019 	19:22:24.8766	73	End Trial 
+11/15/2019 	19:22:25.0239	74	Begin Trial / Recording
+11/15/2019 	19:22:25.1249	74	Present
+11/15/2019 	19:22:25.9394	74	Direction 1 CCW 40
+11/15/2019 	19:22:26.3409	74	Delay 0
+11/15/2019 	19:22:26.3439	74	Direction 2 CCW 40
+11/15/2019 	19:22:26.7457	74	Report Aborted 
+11/15/2019 	19:22:26.7497	74	Grace Period 300 Aborted 
+11/15/2019 	19:22:31.9346	74	Auto Reward Aborted 
+11/15/2019 	19:22:31.9396	74	Miss 2 Aborted 
+11/15/2019 	19:22:32.3139	74	End Recording Aborted 
+11/15/2019 	19:22:32.7986	74	Withdraw Aborted 
+11/15/2019 	19:22:34.3428	74	End Trial  Aborted 
+11/15/2019 	20:12:57.3598	75	Begin Trial / Recording
+11/15/2019 	20:12:57.4607	75	Present
+11/15/2019 	20:12:58.2744	75	Direction 1 CW 40
+11/15/2019 	20:12:58.6761	75	Delay 0
+11/15/2019 	20:12:58.6801	75	Direction 2 CCW 40
+11/15/2019 	20:12:59.5807	75	Present Lick Spouts
+11/15/2019 	20:12:59.8816	75	Report
+11/15/2019 	20:12:59.8856	75	Grace Period 300
+11/15/2019 	20:13:05.0037	75	Auto Reward Aborted 
+11/15/2019 	20:13:05.0087	75	Miss 1 Aborted 
+11/15/2019 	20:13:05.2156	75	End Recording Aborted 
+11/15/2019 	20:13:05.6889	75	Withdraw Lick Spouts Aborted 
+11/15/2019 	20:13:05.9917	75	Withdraw Aborted 
+11/15/2019 	20:13:06.7315	75	End Trial  Aborted 
+11/15/2019 	20:13:06.8714	76	Begin Trial / Recording
+11/15/2019 	20:13:06.9734	76	Present
+11/15/2019 	20:13:07.7869	76	Direction 1 CCW 40
+11/15/2019 	20:13:08.1907	76	Delay 0 Aborted 
+11/15/2019 	20:13:08.1937	76	Direction 2 CCW 40 Aborted 
+11/15/2019 	20:13:08.5945	76	Report Aborted 
+11/15/2019 	20:13:08.5995	76	Grace Period 300 Aborted 
+11/15/2019 	20:13:13.7546	76	Auto Reward Aborted 
+11/15/2019 	20:13:13.7586	76	Miss 2 Aborted 
+11/15/2019 	20:13:14.1245	76	End Recording Aborted 
+11/15/2019 	20:13:14.6178	76	Withdraw Aborted 
+11/15/2019 	20:13:16.1512	76	End Trial  Aborted 
+11/15/2019 	20:42:44.8240	77	Begin Trial / Recording
+11/15/2019 	20:42:44.9260	77	Present
+11/15/2019 	20:42:45.7415	77	Direction 1 CW 40
+11/15/2019 	20:42:46.1432	77	Delay 0
+11/15/2019 	20:42:46.1462	77	Direction 2 CCW 40
+11/15/2019 	20:42:47.0487	77	Present Lick Spouts
+11/15/2019 	20:42:47.3486	77	Report
+11/15/2019 	20:42:47.3536	77	Grace Period 300
+11/15/2019 	20:42:50.6165	77	Auto Reward Aborted 
+11/15/2019 	20:42:50.6225	77	FA 1 Aborted 
+11/15/2019 	20:42:50.7614	77	End Recording Aborted 
+11/15/2019 	20:42:51.2372	77	Withdraw Lick Spouts Aborted 
+11/15/2019 	20:42:51.5371	77	Withdraw Aborted 
+11/15/2019 	20:42:52.2736	77	End Trial  Aborted 
+11/15/2019 	20:57:41.8479	78	Begin Trial / Recording
+11/15/2019 	20:57:41.9498	78	Present
+11/15/2019 	20:57:42.7644	78	Direction 1 CW 40 Aborted 
+11/15/2019 	20:57:43.1642	78	Delay 0 Aborted 
+11/15/2019 	20:57:43.1712	78	Direction 2 CW 40 Aborted 
+11/15/2019 	20:57:43.5720	78	Report Aborted 
+11/15/2019 	20:57:43.5780	78	Grace Period 300 Aborted 
+11/15/2019 	20:57:48.7920	78	Miss 2 Aborted 
+11/15/2019 	20:57:49.1728	78	End Recording Aborted 
+11/15/2019 	20:57:49.6555	78	Withdraw Aborted 
+11/15/2019 	20:57:51.2027	78	End Trial  Aborted 
+11/15/2019 	20:59:08.1603	79	Begin Trial / Recording
+11/15/2019 	20:59:08.2622	79	Present
+11/15/2019 	20:59:09.0777	79	Direction 1 CW 40 Aborted 
+11/15/2019 	20:59:09.4775	79	Delay 0 Aborted 
+11/15/2019 	20:59:09.4805	79	Direction 2 CCW 40 Aborted 
+11/15/2019 	20:59:09.8823	79	Report Aborted 
+11/15/2019 	20:59:09.8873	79	Grace Period 300 Aborted 
+11/15/2019 	20:59:15.0224	79	Miss 1 Aborted 
+11/15/2019 	20:59:15.2168	79	End Recording Aborted 
+11/15/2019 	20:59:15.7036	79	Withdraw Aborted 
+11/15/2019 	20:59:16.4442	79	End Trial  Aborted 
+11/15/2019 	20:59:16.5827	80	Begin Trial / Recording
+11/15/2019 	20:59:16.6836	80	Present
+11/15/2019 	20:59:17.4982	80	Direction 1 CCW 40 Aborted 
+11/15/2019 	20:59:17.8980	80	Delay 0 Aborted 
+11/15/2019 	20:59:17.9010	80	Direction 2 CCW 40 Aborted 
+11/15/2019 	20:59:18.3017	80	Report Aborted 
+11/15/2019 	20:59:18.3067	80	Grace Period 300 Aborted 
+11/15/2019 	20:59:23.4749	80	Miss 2 Aborted 
+11/15/2019 	20:59:23.8542	80	End Recording Aborted 
+11/15/2019 	20:59:24.3382	80	Withdraw Aborted 
+11/15/2019 	20:59:25.8859	80	End Trial  Aborted 
+11/15/2019 	22:06:17.6024	81	Begin Trial / Recording
+11/15/2019 	22:06:17.7034	81	Present
+11/15/2019 	22:06:18.5169	81	Direction 1 CW 40 Aborted 
+11/15/2019 	22:06:18.9167	81	Delay 0 Aborted 
+11/15/2019 	22:06:18.9197	81	Direction 2 CCW 40 Aborted 
+11/15/2019 	22:06:19.3205	81	Report Aborted 
+11/15/2019 	22:06:19.3255	81	Grace Period 300 Aborted 
+11/15/2019 	22:06:24.4907	81	Miss 1 Aborted 
+11/15/2019 	22:06:24.6836	81	End Recording Aborted 
+11/15/2019 	22:06:25.1723	81	Withdraw Aborted 
+11/15/2019 	22:06:25.9318	81	End Trial  Aborted 
+11/15/2019 	22:06:29.3150	82	Begin Trial / Recording
+11/15/2019 	22:06:29.4170	82	Present
+11/15/2019 	22:06:30.2325	82	Direction 1 CW 40
+11/15/2019 	22:06:30.6333	82	Delay 0
+11/15/2019 	22:06:30.6363	82	Direction 2 CW 40
+11/15/2019 	22:06:31.0370	82	Report Aborted 
+11/15/2019 	22:06:31.0410	82	Grace Period 300 Aborted 
+11/15/2019 	22:06:36.1737	82	Miss 2 Aborted 
+11/15/2019 	22:06:36.5572	82	End Recording Aborted 
+11/15/2019 	22:06:37.0399	82	Withdraw Aborted 
+11/15/2019 	22:06:38.5780	82	End Trial  Aborted 
+11/15/2019 	22:08:19.6349	83	Begin Trial / Recording
+11/15/2019 	22:08:19.7369	83	Present
+11/15/2019 	22:08:20.5514	83	Direction 1 CW 40 Aborted 
+11/15/2019 	22:08:20.9552	83	Delay 0 Aborted 
+11/15/2019 	22:08:20.9582	83	Direction 2 CCW 40 Aborted 
+11/15/2019 	22:08:21.3580	83	Report Aborted 
+11/15/2019 	22:08:21.3640	83	Grace Period 300 Aborted 
+11/15/2019 	22:08:26.5464	83	Miss 1 Aborted 
+11/15/2019 	22:08:26.7523	83	End Recording Aborted 
+11/15/2019 	22:08:27.2270	83	Withdraw Aborted 
+11/15/2019 	22:08:27.9561	83	End Trial  Aborted 
+11/15/2019 	22:08:28.0937	84	Begin Trial / Recording
+11/15/2019 	22:08:28.1957	84	Present
+11/15/2019 	22:08:29.0092	84	Direction 1 CW 40
+11/15/2019 	22:08:29.4100	84	Delay 0
+11/15/2019 	22:08:29.4130	84	Direction 2 CW 40
+11/15/2019 	22:08:30.3160	84	Present Lick Spouts
+11/15/2019 	22:08:30.6175	84	Report
+11/15/2019 	22:08:30.6215	84	Grace Period 300
+11/15/2019 	22:08:33.9658	84	Reward Aborted 
+11/15/2019 	22:08:33.9718	84	Hit 2 Aborted 
+11/15/2019 	22:08:34.2331	84	End Recording Aborted 
+11/15/2019 	22:08:36.4664	84	Withdraw Lick Spouts Aborted 
+11/15/2019 	22:08:36.7663	84	Withdraw Aborted 
+11/15/2019 	22:08:38.3016	84	End Trial  Aborted 
+11/15/2019 	22:08:38.4416	85	Begin Trial / Recording
+11/15/2019 	22:08:38.5425	85	Present
+11/15/2019 	22:08:39.3560	85	Direction 1 CW 40
+11/15/2019 	22:08:39.7576	85	Delay 0
+11/15/2019 	22:08:39.7606	85	Direction 2 CCW 40
+11/15/2019 	22:08:40.6601	85	Present Lick Spouts
+11/15/2019 	22:08:40.9605	85	Report
+11/15/2019 	22:08:40.9655	85	Grace Period 300
+11/15/2019 	22:08:43.6773	85	Reward
+11/15/2019 	22:08:43.6833	85	Hit 1
+11/15/2019 	22:08:43.7613	85	End Recording
+11/15/2019 	22:08:46.1775	85	Withdraw Lick Spouts Aborted 
+11/15/2019 	22:08:46.4779	85	Withdraw Aborted 
+11/15/2019 	22:08:47.2179	85	End Trial  Aborted 
+11/15/2019 	22:10:42.9100	86	Begin Trial / Recording
+11/15/2019 	22:10:43.0119	86	Present
+11/15/2019 	22:10:43.8265	86	Direction 1 CW 40
+11/15/2019 	22:10:44.2272	86	Delay 0
+11/15/2019 	22:10:44.2302	86	Direction 2 CW 40
+11/15/2019 	22:10:45.1307	86	Present Lick Spouts
+11/15/2019 	22:10:45.4326	86	Report
+11/15/2019 	22:10:45.4366	86	Grace Period 300
+11/15/2019 	22:10:50.5706	86	Auto Reward Aborted 
+11/15/2019 	22:10:50.5746	86	Miss 2 Aborted 
+11/15/2019 	22:10:50.9404	86	End Recording Aborted 
+11/15/2019 	22:10:51.4311	86	Withdraw Lick Spouts Aborted 
+11/15/2019 	22:10:51.7310	86	Withdraw Aborted 
+11/15/2019 	22:10:53.2817	86	End Trial  Aborted 
+11/15/2019 	22:10:53.4274	87	Begin Trial / Recording
+11/15/2019 	22:10:53.5294	87	Present
+11/15/2019 	22:10:54.3439	87	Direction 1 CW 40
+11/15/2019 	22:10:54.7467	87	Delay 0
+11/15/2019 	22:10:54.7487	87	Direction 2 CCW 40
+11/15/2019 	22:10:55.6492	87	Present Lick Spouts
+11/15/2019 	22:10:55.9490	87	Report
+11/15/2019 	22:10:55.9570	87	Grace Period 300
+11/15/2019 	22:11:01.0992	87	Auto Reward Aborted 
+11/15/2019 	22:11:01.1032	87	Miss 1 Aborted 
+11/15/2019 	22:11:01.3020	87	End Recording Aborted 
+11/15/2019 	22:11:01.7820	87	Withdraw Lick Spouts Aborted 
+11/15/2019 	22:11:02.0819	87	Withdraw Aborted 
+11/15/2019 	22:11:02.8290	87	End Trial  Aborted 
+11/15/2019 	22:11:02.9673	88	Begin Trial / Recording
+11/15/2019 	22:11:03.0692	88	Present
+11/15/2019 	22:11:03.8828	88	Direction 1 CW 40 Aborted 
+11/15/2019 	22:11:04.2828	88	Delay 0 Aborted 
+11/15/2019 	22:11:04.2868	88	Direction 2 CW 40 Aborted 
+11/15/2019 	22:11:04.6867	88	Report Aborted 
+11/15/2019 	22:11:04.6907	88	Grace Period 300 Aborted 
+11/15/2019 	22:11:09.8809	88	Auto Reward Aborted 
+11/15/2019 	22:11:09.8859	88	Miss 2 Aborted 
+11/15/2019 	22:11:10.2660	88	End Recording Aborted 
+11/15/2019 	22:11:10.7419	88	Withdraw Aborted 
+11/15/2019 	22:11:12.2821	88	End Trial  Aborted 
+11/15/2019 	22:11:57.8789	89	Begin Trial / Recording
+11/15/2019 	22:11:57.9789	89	Present Aborted 
+11/15/2019 	22:11:58.7934	89	Direction 1 CW 40 Aborted 
+11/15/2019 	22:11:59.1932	89	Delay 0 Aborted 
+11/15/2019 	22:11:59.1982	89	Direction 2 CCW 40 Aborted 
+11/15/2019 	22:11:59.5980	89	Report Aborted 
+11/15/2019 	22:11:59.6020	89	Grace Period 300 Aborted 
+11/15/2019 	22:12:04.7191	89	Auto Reward Aborted 
+11/15/2019 	22:12:04.7241	89	Miss 1 Aborted 
+11/15/2019 	22:12:04.9120	89	End Recording Aborted 
+11/15/2019 	22:12:05.4007	89	Withdraw Aborted 
+11/15/2019 	22:12:06.1475	89	End Trial  Aborted 
+11/15/2019 	22:12:06.2827	90	Begin Trial / Recording
+11/15/2019 	22:12:06.3857	90	Present
+11/15/2019 	22:12:07.2002	90	Direction 1 CW 40
+11/15/2019 	22:12:07.6000	90	Delay 0
+11/15/2019 	22:12:07.6040	90	Direction 2 CW 40
+11/15/2019 	22:12:08.5047	90	Present Lick Spouts
+11/15/2019 	22:12:08.8066	90	Report
+11/15/2019 	22:12:08.8106	90	Grace Period 300
+11/15/2019 	22:12:14.0079	90	Miss 2
+11/15/2019 	22:12:14.3790	90	End Recording
+11/15/2019 	22:12:14.8708	90	Withdraw Lick Spouts
+11/15/2019 	22:12:15.1720	90	Withdraw
+11/15/2019 	22:12:16.7233	90	End Trial 
+11/15/2019 	22:12:16.8653	91	Begin Trial / Recording
+11/15/2019 	22:12:16.9672	91	Present
+11/15/2019 	22:12:17.7811	91	Direction 1 CW 40
+11/15/2019 	22:12:18.1821	91	Delay 0
+11/15/2019 	22:12:18.1851	91	Direction 2 CCW 40
+11/15/2019 	22:12:19.0852	91	Present Lick Spouts
+11/15/2019 	22:12:19.3850	91	Report
+11/15/2019 	22:12:19.3910	91	Grace Period 300
+11/15/2019 	22:12:23.1362	91	Auto Reward Aborted 
+11/15/2019 	22:12:23.1402	91	FA 1 Aborted 
+11/15/2019 	22:12:23.2827	91	End Recording Aborted 
+11/15/2019 	22:12:23.7584	91	Withdraw Lick Spouts Aborted 
+11/15/2019 	22:12:24.0580	91	Withdraw Aborted 
+11/15/2019 	22:12:24.8076	91	End Trial  Aborted 
+11/15/2019 	22:12:24.9491	92	Begin Trial / Recording
+11/15/2019 	22:12:25.0501	92	Present
+11/15/2019 	22:12:25.8646	92	Direction 1 CCW 40
+11/15/2019 	22:12:26.2644	92	Delay 0
+11/15/2019 	22:12:26.2674	92	Direction 2 CCW 40
+11/15/2019 	22:12:27.1679	92	Present Lick Spouts
+11/15/2019 	22:12:27.4677	92	Report
+11/15/2019 	22:12:27.4717	92	Grace Period 300
+11/15/2019 	22:12:32.6393	92	Miss 2 Aborted 
+11/15/2019 	22:12:33.0137	92	End Recording Aborted 
+11/15/2019 	22:12:33.5014	92	Withdraw Lick Spouts Aborted 
+11/15/2019 	22:12:33.8013	92	Withdraw Aborted 
+11/15/2019 	22:12:35.3359	92	End Trial  Aborted 
+11/15/2019 	22:12:35.4745	93	Begin Trial / Recording
+11/15/2019 	22:12:35.5745	93	Present
+11/15/2019 	22:12:36.3889	93	Direction 1 CW 40 Aborted 
+11/15/2019 	22:12:36.7907	93	Delay 0 Aborted 
+11/15/2019 	22:12:36.7947	93	Direction 2 CCW 40 Aborted 
+11/15/2019 	22:12:37.1954	93	Report Aborted 
+11/15/2019 	22:12:37.1994	93	Grace Period 300 Aborted 
+11/15/2019 	22:12:42.3786	93	Miss 1 Aborted 
+11/15/2019 	22:12:42.5875	93	End Recording Aborted 
+11/15/2019 	22:12:43.0599	93	Withdraw Aborted 
+11/15/2019 	22:12:43.8095	93	End Trial  Aborted 
+11/15/2019 	22:12:43.9569	94	Begin Trial / Recording
+11/15/2019 	22:12:44.0609	94	Present
+11/15/2019 	22:12:44.8754	94	Direction 1 CW 40
+11/15/2019 	22:12:45.2757	94	Delay 0
+11/15/2019 	22:12:45.2787	94	Direction 2 CW 40
+11/15/2019 	22:12:46.1799	94	Present Lick Spouts
+11/15/2019 	22:12:46.4807	94	Report
+11/15/2019 	22:12:46.4857	94	Grace Period 300
+11/15/2019 	22:12:51.6298	94	Miss 2
+11/15/2019 	22:12:52.0126	94	End Recording
+11/15/2019 	22:12:52.4973	94	Withdraw Lick Spouts
+11/15/2019 	22:12:52.7972	94	Withdraw
+11/15/2019 	22:12:54.3410	94	End Trial 
+11/15/2019 	22:12:54.4841	95	Begin Trial / Recording
+11/15/2019 	22:12:54.5860	95	Present
+11/15/2019 	22:12:55.4016	95	Direction 1 CW 40
+11/15/2019 	22:12:55.8024	95	Delay 0
+11/15/2019 	22:12:55.8083	95	Direction 2 CCW 40
+11/15/2019 	22:12:56.7077	95	Present Lick Spouts
+11/15/2019 	22:12:57.0096	95	Report
+11/15/2019 	22:12:57.0136	95	Grace Period 300
+11/15/2019 	22:13:02.1915	95	Miss 1 Aborted 
+11/15/2019 	22:13:02.3949	95	End Recording Aborted 
+11/15/2019 	22:13:02.8736	95	Withdraw Lick Spouts Aborted 
+11/15/2019 	22:13:03.1745	95	Withdraw Aborted 
+11/15/2019 	22:13:03.9213	95	End Trial  Aborted 
+11/15/2019 	22:15:31.9954	96	Begin Trial / Recording
+11/15/2019 	22:15:32.0993	96	Present
+11/15/2019 	22:15:32.9128	96	Direction 1 CCW 40
+11/15/2019 	22:15:33.3136	96	Delay 0
+11/15/2019 	22:15:33.3166	96	Direction 2 CCW 40
+11/15/2019 	22:15:34.2161	96	Present Lick Spouts
+11/15/2019 	22:15:34.5169	96	Report
+11/15/2019 	22:15:34.5219	96	Grace Period 300
+11/15/2019 	22:15:39.6302	96	Auto Reward Aborted 
+11/15/2019 	22:15:39.6342	96	Miss 2 Aborted 
+11/15/2019 	22:15:40.0070	96	End Recording Aborted 
+11/15/2019 	22:15:40.4897	96	Withdraw Lick Spouts Aborted 
+11/15/2019 	22:15:40.7903	96	Withdraw Aborted 
+11/15/2019 	22:15:42.3283	96	End Trial  Aborted 
+11/15/2019 	22:15:42.4641	97	Begin Trial / Recording
+11/15/2019 	22:15:42.5665	97	Present
+11/15/2019 	22:15:43.3803	97	Direction 1 CW 40 Aborted 
+11/15/2019 	22:15:43.7836	97	Delay 0 Aborted 
+11/15/2019 	22:15:43.7866	97	Direction 2 CCW 40 Aborted 
+11/15/2019 	22:15:44.1874	97	Report Aborted 
+11/15/2019 	22:15:44.1934	97	Grace Period 300 Aborted 
+11/15/2019 	22:15:46.8623	97	Auto Reward Aborted 
+11/15/2019 	22:15:46.8664	97	FA 1 Aborted 
+11/15/2019 	22:15:46.9993	97	End Recording Aborted 
+11/15/2019 	22:15:47.4823	97	Withdraw Aborted 
+11/15/2019 	22:15:48.2224	97	End Trial  Aborted 
+11/15/2019 	22:15:48.3598	98	Begin Trial / Recording
+11/15/2019 	22:15:48.4617	98	Present
+11/15/2019 	22:15:49.2784	98	Direction 1 CCW 40
+11/15/2019 	22:15:49.6784	98	Delay 0
+11/15/2019 	22:15:49.6814	98	Direction 2 CCW 40
+11/15/2019 	22:15:50.5832	98	Present Lick Spouts
+11/15/2019 	22:15:50.8836	98	Report
+11/15/2019 	22:15:50.8876	98	Grace Period 300
+11/15/2019 	22:15:56.0760	98	Auto Reward Aborted 
+11/15/2019 	22:15:56.0800	98	Miss 2 Aborted 
+11/15/2019 	22:15:56.4628	98	End Recording Aborted 
+11/15/2019 	22:15:56.9402	98	Withdraw Lick Spouts Aborted 
+11/15/2019 	22:15:57.2410	98	Withdraw Aborted 
+11/15/2019 	22:15:58.7909	98	End Trial  Aborted 
+11/15/2019 	22:15:58.9410	99	Begin Trial / Recording
+11/15/2019 	22:15:59.0429	99	Present
+11/15/2019 	22:15:59.8570	99	Direction 1 CW 40 Aborted 
+11/15/2019 	22:16:00.2567	99	Delay 0 Aborted 
+11/15/2019 	22:16:00.2597	99	Direction 2 CCW 40 Aborted 
+11/15/2019 	22:16:00.6601	99	Report Aborted 
+11/15/2019 	22:16:00.6651	99	Grace Period 300 Aborted 
+11/15/2019 	22:16:02.2387	99	Reward Aborted 
+11/15/2019 	22:16:02.2448	99	Hit 1 Aborted 
+11/15/2019 	22:16:02.9857	99	End Recording Aborted 
+11/15/2019 	22:16:04.7397	99	Withdraw Aborted 
+11/15/2019 	22:16:05.4829	99	End Trial  Aborted 
+11/15/2019 	22:16:05.6188	100	Begin Trial / Recording
+11/15/2019 	22:16:05.7208	100	Present
+11/15/2019 	22:16:06.5354	100	Direction 1 CW 40
+11/15/2019 	22:16:06.9362	100	Delay 0
+11/15/2019 	22:16:06.9392	100	Direction 2 CW 40
+11/15/2019 	22:16:07.8397	100	Present Lick Spouts
+11/15/2019 	22:16:08.1431	100	Report
+11/15/2019 	22:16:08.1471	100	Grace Period 300
+11/15/2019 	22:16:08.7967	100	Auto Reward
+11/15/2019 	22:16:08.8027	100	FA 2
+11/15/2019 	22:16:09.6022	100	Withdraw Lick Spouts
+11/15/2019 	22:16:09.6877	100	End Recording
+11/15/2019 	22:16:09.9051	100	Withdraw
+11/15/2019 	22:16:11.4562	100	End Trial 
+11/15/2019 	22:16:11.5928	101	Begin Trial / Recording
+11/15/2019 	22:16:11.6947	101	Present
+11/15/2019 	22:16:12.5093	101	Direction 1 CW 40 Aborted 
+11/15/2019 	22:16:12.9091	101	Delay 0 Aborted 
+11/15/2019 	22:16:12.9141	101	Direction 2 CCW 40 Aborted 
+11/15/2019 	22:16:13.3139	101	Report Aborted 
+11/15/2019 	22:16:13.3179	101	Grace Period 300 Aborted 
+11/15/2019 	22:16:14.9377	101	Auto Reward Aborted 
+11/15/2019 	22:16:14.9427	101	FA 1 Aborted 
+11/15/2019 	22:16:15.5620	101	Withdraw Aborted 
+11/15/2019 	22:16:15.6509	101	End Recording Aborted 
+11/15/2019 	22:16:16.3121	101	End Trial  Aborted 
+11/15/2019 	22:16:17.3795	102	Begin Trial / Recording
+11/15/2019 	22:16:17.4804	102	Present
+11/15/2019 	22:16:18.2940	102	Direction 1 CCW 40 Aborted 
+11/15/2019 	22:16:18.6937	102	Delay 0 Aborted 
+11/15/2019 	22:16:18.6987	102	Direction 2 CCW 40 Aborted 
+11/15/2019 	22:16:19.1005	102	Report Aborted 
+11/15/2019 	22:16:19.1045	102	Grace Period 300 Aborted 
+11/15/2019 	22:16:21.9600	102	Auto Reward Aborted 
+11/15/2019 	22:16:21.9660	102	FA 2 Aborted 
+11/15/2019 	22:16:22.2848	102	End Recording Aborted 
+11/15/2019 	22:16:22.7609	102	Withdraw Aborted 
+11/15/2019 	22:16:24.2938	102	End Trial  Aborted 
+11/15/2019 	22:16:24.4318	103	Begin Trial / Recording
+11/15/2019 	22:16:24.5329	103	Present
+11/15/2019 	22:16:25.3473	103	Direction 1 CW 40
+11/15/2019 	22:16:25.7484	103	Delay 0
+11/15/2019 	22:16:25.7534	103	Direction 2 CCW 40
+11/15/2019 	22:16:26.6531	103	Present Lick Spouts Aborted 
+11/15/2019 	22:16:26.9539	103	Report Aborted 
+11/15/2019 	22:16:26.9579	103	Grace Period 300 Aborted 
+11/15/2019 	22:16:27.5404	103	Reward Aborted 
+11/15/2019 	22:16:27.5454	103	Hit 1 Aborted 
+11/15/2019 	22:16:28.5044	103	End Recording Aborted 
+11/15/2019 	22:16:30.0405	103	Withdraw Lick Spouts Aborted 
+11/15/2019 	22:16:30.3414	103	Withdraw Aborted 
+11/15/2019 	22:16:31.0824	103	End Trial  Aborted 
+11/15/2019 	22:16:31.2247	104	Begin Trial / Recording
+11/15/2019 	22:16:31.3264	104	Present
+11/15/2019 	22:16:32.1400	104	Direction 1 CW 40
+11/15/2019 	22:16:32.5408	104	Delay 0
+11/15/2019 	22:16:32.5448	104	Direction 2 CW 40
+11/15/2019 	22:16:33.4463	104	Present Lick Spouts
+11/15/2019 	22:16:33.7461	104	Report
+11/15/2019 	22:16:33.7501	104	Grace Period 300
+11/15/2019 	22:16:38.9009	104	Miss 2 Aborted 
+11/15/2019 	22:16:39.2933	104	End Recording Aborted 
+11/15/2019 	22:16:39.7660	104	Withdraw Lick Spouts Aborted 
+11/15/2019 	22:16:40.0658	104	Withdraw Aborted 
+11/15/2019 	22:16:41.5994	104	End Trial  Aborted 
+11/15/2019 	22:16:48.4303	105	Begin Trial / Recording
+11/15/2019 	22:16:48.5333	105	Present
+11/15/2019 	22:16:49.3468	105	Direction 1 CW 40
+11/15/2019 	22:16:49.7486	105	Delay 0
+11/15/2019 	22:16:49.7516	105	Direction 2 CCW 40
+11/15/2019 	22:16:50.6511	105	Present Lick Spouts
+11/15/2019 	22:16:50.9509	105	Report
+11/15/2019 	22:16:50.9549	105	Grace Period 300
+11/15/2019 	22:16:53.7845	105	Auto Reward
+11/15/2019 	22:16:53.7885	105	FA 1
+11/15/2019 	22:16:53.9164	105	End Recording
+11/15/2019 	22:16:54.4041	105	Withdraw Lick Spouts
+11/15/2019 	22:16:54.7040	105	Withdraw
+11/15/2019 	22:16:55.4393	105	End Trial 
+11/15/2019 	22:16:55.5765	106	Begin Trial / Recording
+11/15/2019 	22:16:55.6784	106	Present
+11/15/2019 	22:16:56.4919	106	Direction 1 CW 40
+11/15/2019 	22:16:56.8917	106	Delay 0
+11/15/2019 	22:16:56.8947	106	Direction 2 CW 40
+11/15/2019 	22:16:57.7952	106	Present Lick Spouts
+11/15/2019 	22:16:58.0950	106	Report
+11/15/2019 	22:16:58.0990	106	Grace Period 300
+11/15/2019 	22:17:03.2481	106	Miss 2 Aborted 
+11/15/2019 	22:17:03.6248	106	End Recording Aborted 
+11/15/2019 	22:17:04.1103	106	Withdraw Lick Spouts Aborted 
+11/15/2019 	22:17:04.4121	106	Withdraw Aborted 
+11/15/2019 	22:17:05.9558	106	End Trial  Aborted 
+11/15/2019 	22:17:06.6872	107	Begin Trial / Recording
+11/15/2019 	22:17:06.7891	107	Present
+11/15/2019 	22:17:07.6037	107	Direction 1 CW 40
+11/15/2019 	22:17:08.0055	107	Delay 0
+11/15/2019 	22:17:08.0085	107	Direction 2 CCW 40
+11/15/2019 	22:17:08.9100	107	Present Lick Spouts
+11/15/2019 	22:17:09.2098	107	Report
+11/15/2019 	22:17:09.2139	107	Grace Period 300
+11/15/2019 	22:17:14.3505	107	Miss 1 Aborted 
+11/15/2019 	22:17:14.5564	107	End Recording Aborted 
+11/15/2019 	22:17:15.0301	107	Withdraw Lick Spouts Aborted 
+11/15/2019 	22:17:15.3300	107	Withdraw Aborted 
+11/15/2019 	22:17:16.0708	107	End Trial  Aborted 
+11/15/2019 	22:17:17.4482	108	Begin Trial / Recording
+11/15/2019 	22:17:17.5492	108	Present
+11/15/2019 	22:17:18.3627	108	Direction 1 CCW 40 Aborted 
+11/15/2019 	22:17:18.7645	108	Delay 0 Aborted 
+11/15/2019 	22:17:18.7705	108	Direction 2 CCW 40 Aborted 
+11/15/2019 	22:17:19.1703	108	Report Aborted 
+11/15/2019 	22:17:19.1763	108	Grace Period 300 Aborted 
+11/15/2019 	22:17:24.2935	108	Auto Reward Aborted 
+11/15/2019 	22:17:24.2985	108	Miss 2 Aborted 
+11/15/2019 	22:17:24.6755	108	End Recording Aborted 
+11/15/2019 	22:17:25.1572	108	Withdraw Aborted 
+11/15/2019 	22:17:26.7024	108	End Trial  Aborted 
+11/15/2019 	22:17:26.8386	109	Begin Trial / Recording
+11/15/2019 	22:17:26.9396	109	Present
+11/15/2019 	22:17:27.7541	109	Direction 1 CW 40
+11/15/2019 	22:17:28.1539	109	Delay 0
+11/15/2019 	22:17:28.1579	109	Direction 2 CCW 40
+11/15/2019 	22:17:29.0594	109	Present Lick Spouts
+11/15/2019 	22:17:29.3595	109	Report
+11/15/2019 	22:17:29.3645	109	Grace Period 300
+11/15/2019 	22:17:34.5141	109	Auto Reward
+11/15/2019 	22:17:34.5191	109	Miss 1
+11/15/2019 	22:17:34.7139	109	End Recording
+11/15/2019 	22:17:35.1958	109	Withdraw Lick Spouts
+11/15/2019 	22:17:35.4972	109	Withdraw
+11/15/2019 	22:17:36.2435	109	End Trial 
+11/15/2019 	22:17:36.3906	110	Begin Trial / Recording
+11/15/2019 	22:17:36.4925	110	Present
+11/15/2019 	22:17:37.3061	110	Direction 1 CW 40
+11/15/2019 	22:17:37.7094	110	Delay 0
+11/15/2019 	22:17:37.7124	110	Direction 2 CW 40
+11/15/2019 	22:17:38.6118	110	Present Lick Spouts
+11/15/2019 	22:17:38.9132	110	Report
+11/15/2019 	22:17:38.9172	110	Grace Period 300
+11/15/2019 	22:17:44.1041	110	Auto Reward Aborted 
+11/15/2019 	22:17:44.1081	110	Miss 2 Aborted 
+11/15/2019 	22:17:44.4829	110	End Recording Aborted 
+11/15/2019 	22:17:44.9684	110	Withdraw Lick Spouts Aborted 
+11/15/2019 	22:17:45.2713	110	Withdraw Aborted 
+11/15/2019 	22:17:46.8128	110	End Trial  Aborted 
+11/15/2019 	22:17:46.9520	111	Begin Trial / Recording
+11/15/2019 	22:17:47.0539	111	Present
+11/15/2019 	22:17:47.8695	111	Direction 1 CW 40
+11/15/2019 	22:17:48.2723	111	Delay 0
+11/15/2019 	22:17:48.2743	111	Direction 2 CCW 40
+11/15/2019 	22:17:49.1738	111	Present Lick Spouts
+11/15/2019 	22:17:49.4742	111	Report
+11/15/2019 	22:17:49.4782	111	Grace Period 300
+11/15/2019 	22:17:50.0169	111	Auto Reward
+11/15/2019 	22:17:50.0219	111	FA 1
+11/15/2019 	22:17:50.6391	111	Withdraw Lick Spouts
+11/15/2019 	22:17:50.9409	111	Withdraw Aborted 
+11/15/2019 	22:17:51.0269	111	End Recording Aborted 
+11/15/2019 	22:17:51.6792	111	End Trial  Aborted 
+11/15/2019 	22:17:52.6742	112	Begin Trial / Recording
+11/15/2019 	22:17:52.7761	112	Present
+11/15/2019 	22:17:53.5907	112	Direction 1 CW 40
+11/15/2019 	22:17:53.9915	112	Delay 0
+11/15/2019 	22:17:53.9945	112	Direction 2 CW 40
+11/15/2019 	22:17:54.8965	112	Present Lick Spouts
+11/15/2019 	22:17:55.1966	112	Report
+11/15/2019 	22:17:55.2026	112	Grace Period 300
+11/15/2019 	22:17:55.7364	112	Auto Reward
+11/15/2019 	22:17:55.7424	112	FA 2
+11/15/2019 	22:17:56.5390	112	Withdraw Lick Spouts
+11/15/2019 	22:17:56.7430	112	End Recording
+11/15/2019 	22:17:56.8389	112	Withdraw
+11/15/2019 	22:17:58.3779	112	End Trial 
+11/15/2019 	22:17:58.5143	113	Begin Trial / Recording
+11/15/2019 	22:17:58.6172	113	Present
+11/15/2019 	22:17:59.4324	113	Direction 1 CW 40
+11/15/2019 	22:17:59.8331	113	Delay 0
+11/15/2019 	22:17:59.8361	113	Direction 2 CCW 40
+11/15/2019 	22:18:00.7365	113	Present Lick Spouts
+11/15/2019 	22:18:01.0364	113	Report
+11/15/2019 	22:18:01.0414	113	Grace Period 300
+11/15/2019 	22:18:01.7101	113	Reward
+11/15/2019 	22:18:01.7141	113	Hit 1
+11/15/2019 	22:18:02.5641	113	End Recording
+11/15/2019 	22:18:04.2101	113	Withdraw Lick Spouts
+11/15/2019 	22:18:04.5100	113	Withdraw
+11/15/2019 	22:18:05.2454	113	End Trial 
+11/15/2019 	22:18:05.3901	114	Begin Trial / Recording
+11/15/2019 	22:18:05.4902	114	Present
+11/15/2019 	22:18:06.3047	114	Direction 1 CW 40
+11/15/2019 	22:18:06.7055	114	Delay 0
+11/15/2019 	22:18:06.7095	114	Direction 2 CW 40
+11/15/2019 	22:18:07.6090	114	Present Lick Spouts Aborted 
+11/15/2019 	22:18:07.9088	114	Report Aborted 
+11/15/2019 	22:18:07.9138	114	Grace Period 300 Aborted 
+11/15/2019 	22:18:13.0954	114	Miss 2 Aborted 
+11/15/2019 	22:18:13.4832	114	End Recording Aborted 
+11/15/2019 	22:18:13.9579	114	Withdraw Lick Spouts Aborted 
+11/15/2019 	22:18:14.2603	114	Withdraw Aborted 
+11/15/2019 	22:18:15.7947	114	End Trial  Aborted 
+11/15/2019 	22:18:15.9367	115	Begin Trial / Recording
+11/15/2019 	22:18:16.0376	115	Present
+11/15/2019 	22:18:16.8526	115	Direction 1 CW 40
+11/15/2019 	22:18:17.2534	115	Delay 0
+11/15/2019 	22:18:17.2564	115	Direction 2 CCW 40
+11/15/2019 	22:18:18.1565	115	Present Lick Spouts
+11/15/2019 	22:18:18.4565	115	Report
+11/15/2019 	22:18:18.4605	115	Grace Period 300
+11/15/2019 	22:18:20.7781	115	Reward Aborted 
+11/15/2019 	22:18:20.7821	115	Hit 1 Aborted 
+11/15/2019 	22:18:20.8531	115	End Recording Aborted 
+11/15/2019 	22:18:23.2806	115	Withdraw Lick Spouts Aborted 
+11/15/2019 	22:18:23.5826	115	Withdraw Aborted 
+11/15/2019 	22:18:24.3178	115	End Trial  Aborted 
+11/15/2019 	22:18:24.4614	116	Begin Trial / Recording
+11/15/2019 	22:18:24.5644	116	Present
+11/15/2019 	22:18:25.3779	116	Direction 1 CW 40
+11/15/2019 	22:18:25.7778	116	Delay 0
+11/15/2019 	22:18:25.7838	116	Direction 2 CW 40
+11/15/2019 	22:18:26.6843	116	Present Lick Spouts
+11/15/2019 	22:18:26.9841	116	Report
+11/15/2019 	22:18:26.9911	116	Grace Period 300
+11/15/2019 	22:18:32.1703	116	Miss 2
+11/15/2019 	22:18:32.5531	116	End Recording Aborted 
+11/15/2019 	22:18:33.0326	116	Withdraw Lick Spouts Aborted 
+11/15/2019 	22:18:33.3344	116	Withdraw Aborted 
+11/15/2019 	22:18:34.8890	116	End Trial  Aborted 
+11/15/2019 	22:18:35.9467	117	Begin Trial / Recording
+11/15/2019 	22:18:36.0476	117	Present
+11/15/2019 	22:18:36.8611	117	Direction 1 CW 40 Aborted 
+11/15/2019 	22:18:37.2609	117	Delay 0 Aborted 
+11/15/2019 	22:18:37.2659	117	Direction 2 CCW 40 Aborted 
+11/15/2019 	22:18:37.6666	117	Report Aborted 
+11/15/2019 	22:18:37.6716	117	Grace Period 300 Aborted 
+11/15/2019 	22:18:42.8146	117	Miss 1 Aborted 
+11/15/2019 	22:18:43.0104	117	End Recording Aborted 
+11/15/2019 	22:18:43.4952	117	Withdraw Aborted 
+11/15/2019 	22:18:44.2372	117	End Trial  Aborted 
+11/15/2019 	22:20:53.1541	118	Begin Trial / Recording
+11/15/2019 	22:20:53.2561	118	Present
+11/15/2019 	22:20:54.0706	118	Direction 1 CW 40
+11/15/2019 	22:20:54.4714	118	Delay 0
+11/15/2019 	22:20:54.4744	118	Direction 2 CW 40
+11/15/2019 	22:20:55.3739	118	Present Lick Spouts
+11/15/2019 	22:20:55.6737	118	Report
+11/15/2019 	22:20:55.6777	118	Grace Period 300
+11/15/2019 	22:21:00.8169	118	Miss 2
+11/15/2019 	22:21:01.2017	118	End Recording
+11/15/2019 	22:21:01.6796	118	Withdraw Lick Spouts Aborted 
+11/15/2019 	22:21:01.9793	118	Withdraw Aborted 
+11/15/2019 	22:21:03.5307	118	End Trial  Aborted 
+11/15/2019 	22:21:03.6659	119	Begin Trial / Recording
+11/15/2019 	22:21:03.7678	119	Present
+11/15/2019 	22:21:04.5834	119	Direction 1 CW 40
+11/15/2019 	22:21:04.9851	119	Delay 0
+11/15/2019 	22:21:04.9881	119	Direction 2 CCW 40
+11/15/2019 	22:21:05.8887	119	Present Lick Spouts
+11/15/2019 	22:21:06.1886	119	Report
+11/15/2019 	22:21:06.1925	119	Grace Period 300
+11/15/2019 	22:21:11.3418	119	Miss 1 Aborted 
+11/15/2019 	22:21:11.5437	119	End Recording Aborted 
+11/15/2019 	22:21:12.0236	119	Withdraw Lick Spouts Aborted 
+11/15/2019 	22:21:12.3234	119	Withdraw Aborted 
+11/15/2019 	22:21:13.0613	119	End Trial  Aborted 
+11/15/2019 	22:21:13.2052	120	Begin Trial / Recording
+11/15/2019 	22:21:13.3082	120	Present
+11/15/2019 	22:21:14.1234	120	Direction 1 CW 40
+11/15/2019 	22:21:14.5232	120	Delay 0
+11/15/2019 	22:21:14.5262	120	Direction 2 CW 40
+11/15/2019 	22:21:15.4282	120	Present Lick Spouts
+11/15/2019 	22:21:15.7291	120	Report
+11/15/2019 	22:21:15.7331	120	Grace Period 300
+11/15/2019 	22:21:20.8563	120	Auto Reward
+11/15/2019 	22:21:20.8603	120	Miss 2
+11/15/2019 	22:21:21.2357	120	End Recording
+11/15/2019 	22:21:21.7194	120	Withdraw Lick Spouts
+11/15/2019 	22:21:22.0203	120	Withdraw
+11/15/2019 	22:21:23.5642	120	End Trial 
+11/15/2019 	22:21:23.6992	121	Begin Trial / Recording
+11/15/2019 	22:21:23.8012	121	Present
+11/15/2019 	22:21:24.6147	121	Direction 1 CW 40
+11/15/2019 	22:21:25.0155	121	Delay 0
+11/15/2019 	22:21:25.0185	121	Direction 2 CCW 40
+11/15/2019 	22:21:25.4183	121	Report Aborted 
+11/15/2019 	22:21:25.4223	121	Grace Period 300 Aborted 
+11/15/2019 	22:21:30.5924	121	Auto Reward Aborted 
+11/15/2019 	22:21:30.5974	121	Miss 1 Aborted 
+11/15/2019 	22:21:30.7922	121	End Recording Aborted 
+11/15/2019 	22:21:31.2738	121	Withdraw Aborted 
+11/15/2019 	22:21:32.0136	121	End Trial  Aborted 
+11/15/2019 	22:21:32.1513	122	Begin Trial / Recording
+11/15/2019 	22:21:32.2543	122	Present
+11/15/2019 	22:21:33.0688	122	Direction 1 CCW 40
+11/15/2019 	22:21:33.4716	122	Delay 0
+11/15/2019 	22:21:33.4746	122	Direction 2 CCW 40
+11/15/2019 	22:21:34.3741	122	Present Lick Spouts
+11/15/2019 	22:21:34.6750	122	Report Aborted 
+11/15/2019 	22:21:34.6790	122	Grace Period 300 Aborted 
+11/15/2019 	22:21:39.8652	122	Auto Reward Aborted 
+11/15/2019 	22:21:39.8702	122	Miss 2 Aborted 
+11/15/2019 	22:21:40.2460	122	End Recording Aborted 
+11/15/2019 	22:21:40.7253	122	Withdraw Lick Spouts Aborted 
+11/15/2019 	22:21:41.0261	122	Withdraw Aborted 
+11/15/2019 	22:21:42.5675	122	End Trial  Aborted 
+11/15/2019 	22:21:43.8366	123	Begin Trial / Recording
+11/15/2019 	22:21:43.9386	123	Present
+11/15/2019 	22:21:44.7524	123	Direction 1 CW 40
+11/15/2019 	22:21:45.1522	123	Delay 0
+11/15/2019 	22:21:45.1551	123	Direction 2 CCW 40
+11/15/2019 	22:21:46.0556	123	Present Lick Spouts
+11/15/2019 	22:21:46.3565	123	Report
+11/15/2019 	22:21:46.3625	123	Grace Period 300
+11/15/2019 	22:21:46.8302	123	Auto Reward
+11/15/2019 	22:21:46.8362	123	FA 1
+11/15/2019 	22:21:47.4508	123	Withdraw Lick Spouts
+11/15/2019 	22:21:47.7547	123	Withdraw
+11/15/2019 	22:21:47.8726	123	End Recording
+11/15/2019 	22:21:48.4844	123	End Trial 
+11/15/2019 	22:21:48.6233	124	Begin Trial / Recording
+11/15/2019 	22:21:48.7253	124	Present
+11/15/2019 	22:21:49.5388	124	Direction 1 CCW 40
+11/15/2019 	22:21:49.9396	124	Delay 0
+11/15/2019 	22:21:49.9446	124	Direction 2 CCW 40
+11/15/2019 	22:21:50.8451	124	Present Lick Spouts
+11/15/2019 	22:21:51.1449	124	Report
+11/15/2019 	22:21:51.1529	124	Grace Period 300
+11/15/2019 	22:21:53.6218	124	Reward Aborted 
+11/15/2019 	22:21:53.6258	124	Hit 2 Aborted 
+11/15/2019 	22:21:53.8806	124	End Recording Aborted 
+11/15/2019 	22:21:56.1225	124	Withdraw Lick Spouts Aborted 
+11/15/2019 	22:21:56.4223	124	Withdraw Aborted 
+11/15/2019 	22:21:57.9590	124	End Trial  Aborted 
+11/15/2019 	22:21:58.1107	125	Begin Trial / Recording
+11/15/2019 	22:21:58.2116	125	Present
+11/15/2019 	22:21:59.0248	125	Direction 1 CW 40
+11/15/2019 	22:21:59.4276	125	Delay 0
+11/15/2019 	22:21:59.4316	125	Direction 2 CCW 40
+11/15/2019 	22:22:00.3326	125	Present Lick Spouts
+11/15/2019 	22:22:00.6325	125	Report
+11/15/2019 	22:22:00.6365	125	Grace Period 300
+11/15/2019 	22:22:02.2265	125	Auto Reward
+11/15/2019 	22:22:02.2305	125	FA 1
+11/15/2019 	22:22:02.3554	125	End Recording
+11/15/2019 	22:22:02.8496	125	Withdraw Lick Spouts
+11/15/2019 	22:22:03.1504	125	Withdraw
+11/15/2019 	22:22:03.8920	125	End Trial 
+11/15/2019 	22:22:04.0416	126	Begin Trial / Recording
+11/15/2019 	22:22:04.1425	126	Present
+11/15/2019 	22:22:04.9559	126	Direction 1 CCW 40
+11/15/2019 	22:22:05.3559	126	Delay 0
+11/15/2019 	22:22:05.3599	126	Direction 2 CCW 40
+11/15/2019 	22:22:06.2598	126	Present Lick Spouts
+11/15/2019 	22:22:06.5599	126	Report
+11/15/2019 	22:22:06.5649	126	Grace Period 300
+11/15/2019 	22:22:11.6886	126	Miss 2
+11/15/2019 	22:22:12.0674	126	End Recording
+11/15/2019 	22:22:12.5499	126	Withdraw Lick Spouts
+11/15/2019 	22:22:12.8517	126	Withdraw
+11/15/2019 	22:22:14.3888	126	End Trial 
+11/15/2019 	22:22:14.5242	127	Begin Trial / Recording
+11/15/2019 	22:22:14.6262	127	Present
+11/15/2019 	22:22:15.4427	127	Direction 1 CW 40
+11/15/2019 	22:22:15.8434	127	Delay 0
+11/15/2019 	22:22:15.8464	127	Direction 2 CCW 40
+11/15/2019 	22:22:16.7475	127	Present Lick Spouts
+11/15/2019 	22:22:17.0473	127	Report
+11/15/2019 	22:22:17.0523	127	Grace Period 300
+11/15/2019 	22:22:20.7869	127	Reward Aborted 
+11/15/2019 	22:22:20.7919	127	Hit 1 Aborted 
+11/15/2019 	22:22:20.8598	127	End Recording Aborted 
+11/15/2019 	22:22:23.2867	127	Withdraw Lick Spouts Aborted 
+11/15/2019 	22:22:23.5875	127	Withdraw Aborted 
+11/15/2019 	22:22:24.3313	127	End Trial  Aborted 
+11/15/2019 	22:22:24.4667	128	Begin Trial / Recording
+11/15/2019 	22:22:24.5693	128	Present
+11/15/2019 	22:22:25.3830	128	Direction 1 CW 40
+11/15/2019 	22:22:25.7839	128	Delay 0
+11/15/2019 	22:22:25.7879	128	Direction 2 CW 40
+11/15/2019 	22:22:26.6909	128	Present Lick Spouts
+11/15/2019 	22:22:26.9910	128	Report
+11/15/2019 	22:22:26.9950	128	Grace Period 300
+11/15/2019 	22:22:28.4809	128	Auto Reward
+11/15/2019 	22:22:28.4879	128	FA 2
+11/15/2019 	22:22:28.8090	128	End Recording
+11/15/2019 	22:22:29.2827	128	Withdraw Lick Spouts
+11/15/2019 	22:22:29.5840	128	Withdraw
+11/15/2019 	22:22:31.1274	128	End Trial 
+11/15/2019 	22:22:31.2632	129	Begin Trial / Recording
+11/15/2019 	22:22:31.3656	129	Present
+11/15/2019 	22:22:32.1791	129	Direction 1 CW 40
+11/15/2019 	22:22:32.5800	129	Delay 0
+11/15/2019 	22:22:32.5850	129	Direction 2 CCW 40
+11/15/2019 	22:22:33.4848	129	Present Lick Spouts
+11/15/2019 	22:22:33.7850	129	Report Aborted 
+11/15/2019 	22:22:33.7890	129	Grace Period 300 Aborted 
+11/15/2019 	22:22:36.3869	129	Reward Aborted 
+11/15/2019 	22:22:36.3929	129	Hit 1 Aborted 
+11/15/2019 	22:22:36.4669	129	End Recording Aborted 
+11/15/2019 	22:22:38.8878	129	Withdraw Lick Spouts Aborted 
+11/15/2019 	22:22:39.1889	129	Withdraw Aborted 
+11/15/2019 	22:22:39.9405	129	End Trial  Aborted 
+11/15/2019 	22:22:40.0865	130	Begin Trial / Recording
+11/15/2019 	22:22:40.1884	130	Present
+11/15/2019 	22:22:41.0019	130	Direction 1 CCW 40 Aborted 
+11/15/2019 	22:22:41.4028	130	Delay 0 Aborted 
+11/15/2019 	22:22:41.4057	130	Direction 2 CCW 40 Aborted 
+11/15/2019 	22:22:41.8068	130	Report Aborted 
+11/15/2019 	22:22:41.8108	130	Grace Period 300 Aborted 
+11/15/2019 	22:22:46.9551	130	Miss 2 Aborted 
+11/15/2019 	22:22:47.3269	130	End Recording Aborted 
+11/15/2019 	22:22:47.8196	130	Withdraw Aborted 
+11/15/2019 	22:22:49.3741	130	End Trial  Aborted 
+11/15/2019 	22:22:49.5163	131	Begin Trial / Recording
+11/15/2019 	22:22:49.6182	131	Present
+11/15/2019 	22:22:50.4318	131	Direction 1 CW 40
+11/15/2019 	22:22:50.8336	131	Delay 0
+11/15/2019 	22:22:50.8366	131	Direction 2 CCW 40
+11/15/2019 	22:22:51.2393	131	Report Aborted 
+11/15/2019 	22:22:51.2433	131	Grace Period 300 Aborted 
+11/15/2019 	22:22:56.3823	131	Miss 1 Aborted 
+11/15/2019 	22:22:56.5858	131	End Recording Aborted 
+11/15/2019 	22:22:57.0635	131	Withdraw Aborted 
+11/15/2019 	22:22:57.7947	131	End Trial  Aborted 
+11/15/2019 	22:26:47.2509	132	Begin Trial / Recording
+11/15/2019 	22:26:47.3528	132	Present
+11/15/2019 	22:26:48.1675	132	Direction 1 CCW 40 Aborted 
+11/15/2019 	22:26:48.5673	132	Delay 0 Aborted 
+11/15/2019 	22:26:48.5703	132	Direction 2 CCW 40 Aborted 
+11/15/2019 	22:26:48.9701	132	Report Aborted 
+11/15/2019 	22:26:48.9760	132	Grace Period 300 Aborted 
+11/15/2019 	22:26:54.1265	132	Auto Reward Aborted 
+11/15/2019 	22:26:54.1315	132	Miss 2 Aborted 
+11/15/2019 	22:26:54.5023	132	End Recording Aborted 
+11/15/2019 	22:26:54.9880	132	Withdraw Aborted 
+11/15/2019 	22:26:56.5259	132	End Trial  Aborted 
+11/15/2019 	22:27:05.4852	133	Begin Trial / Recording
+11/15/2019 	22:27:05.5871	133	Present Aborted 
+11/15/2019 	22:27:06.4017	133	Direction 1 CW 40 Aborted 
+11/15/2019 	22:27:06.8014	133	Delay 0 Aborted 
+11/15/2019 	22:27:06.8044	133	Direction 2 CCW 40 Aborted 
+11/15/2019 	22:27:07.2042	133	Report Aborted 
+11/15/2019 	22:27:07.2092	133	Grace Period 300 Aborted 
+11/15/2019 	22:27:12.3682	133	Auto Reward Aborted 
+11/15/2019 	22:27:12.3731	133	Miss 1 Aborted 
+11/15/2019 	22:27:12.5659	133	End Recording Aborted 
+11/15/2019 	22:27:13.0507	133	Withdraw Aborted 
+11/15/2019 	22:27:13.7944	133	End Trial  Aborted 
+11/15/2019 	22:27:13.9424	134	Begin Trial / Recording
+11/15/2019 	22:27:14.0444	134	Present
+11/15/2019 	22:27:14.8579	134	Direction 1 CCW 40
+11/15/2019 	22:27:15.2578	134	Delay 0 Aborted 
+11/15/2019 	22:27:15.2608	134	Direction 2 CCW 40 Aborted 
+11/15/2019 	22:27:15.6622	134	Report Aborted 
+11/15/2019 	22:27:15.6662	134	Grace Period 300 Aborted 
+11/15/2019 	22:27:16.6062	134	Reward Aborted 
+11/15/2019 	22:27:16.6101	134	Hit 2 Aborted 
+11/15/2019 	22:27:18.0031	134	End Recording Aborted 
+11/15/2019 	22:27:19.1060	134	Withdraw Aborted 
+11/15/2019 	22:27:20.6498	134	End Trial  Aborted 
+11/15/2019 	22:27:20.7978	135	Begin Trial / Recording
+11/15/2019 	22:27:20.8998	135	Present
+11/15/2019 	22:27:21.7138	135	Direction 1 CW 40
+11/15/2019 	22:27:22.1177	135	Delay 0
+11/15/2019 	22:27:22.1206	135	Direction 2 CCW 40
+11/15/2019 	22:27:22.5212	135	Report Aborted 
+11/15/2019 	22:27:22.5252	135	Grace Period 300 Aborted 
+11/15/2019 	22:27:24.9268	135	Auto Reward Aborted 
+11/15/2019 	22:27:24.9318	135	FA 1 Aborted 
+11/15/2019 	22:27:25.0657	135	End Recording Aborted 
+11/15/2019 	22:27:25.5511	135	Withdraw Aborted 
+11/15/2019 	22:27:26.2953	135	End Trial  Aborted 
+11/15/2019 	22:28:51.9281	136	Begin Trial / Recording
+11/15/2019 	22:28:52.0300	136	Present Aborted 
+11/15/2019 	22:28:52.8455	136	Direction 1 CW 40 Aborted 
+11/15/2019 	22:28:53.2453	136	Delay 0 Aborted 
+11/15/2019 	22:28:53.2493	136	Direction 2 CW 40 Aborted 
+11/15/2019 	22:28:53.6511	136	Report Aborted 
+11/15/2019 	22:28:53.6551	136	Grace Period 300 Aborted 
+11/15/2019 	22:28:58.8154	136	Auto Reward Aborted 
+11/15/2019 	22:28:58.8214	136	Miss 2 Aborted 
+11/15/2019 	22:28:59.2042	136	End Recording Aborted 
+11/15/2019 	22:28:59.6779	136	Withdraw Aborted 
+11/15/2019 	22:29:01.2120	136	End Trial  Aborted 
+11/15/2019 	22:29:01.3533	137	Begin Trial / Recording
+11/15/2019 	22:29:01.4542	137	Present
+11/15/2019 	22:29:02.2695	137	Direction 1 CW 40
+11/15/2019 	22:29:02.6694	137	Delay 0
+11/15/2019 	22:29:02.6724	137	Direction 2 CCW 40
+11/15/2019 	22:29:03.5742	137	Present Lick Spouts
+11/15/2019 	22:29:03.8744	137	Report
+11/15/2019 	22:29:03.8785	137	Grace Period 300
+11/15/2019 	22:29:04.5485	137	Auto Reward
+11/15/2019 	22:29:04.5555	137	FA 1
+11/15/2019 	22:29:05.1705	137	Withdraw Lick Spouts
+11/15/2019 	22:29:05.4185	137	End Recording
+11/15/2019 	22:29:05.4705	137	Withdraw
+11/15/2019 	22:29:06.2040	137	End Trial 
+11/15/2019 	22:29:06.3402	138	Begin Trial / Recording
+11/15/2019 	22:29:06.4411	138	Present
+11/15/2019 	22:29:07.2551	138	Direction 1 CW 40
+11/15/2019 	22:29:07.6549	138	Delay 0
+11/15/2019 	22:29:07.6599	138	Direction 2 CW 40
+11/15/2019 	22:29:08.5629	138	Present Lick Spouts
+11/15/2019 	22:29:08.8627	138	Report
+11/15/2019 	22:29:08.8667	138	Grace Period 300
+11/15/2019 	22:29:14.0315	138	Miss 2
+11/15/2019 	22:29:14.4025	138	End Recording
+11/15/2019 	22:29:14.8930	138	Withdraw Lick Spouts Aborted 
+11/15/2019 	22:29:15.1928	138	Withdraw Aborted 
+11/15/2019 	22:29:16.7348	138	End Trial  Aborted 
+11/15/2019 	22:29:16.8802	139	Begin Trial / Recording
+11/15/2019 	22:29:16.9822	139	Present
+11/15/2019 	22:29:17.7967	139	Direction 1 CW 40
+11/15/2019 	22:29:18.1985	139	Delay 0
+11/15/2019 	22:29:18.2015	139	Direction 2 CCW 40
+11/15/2019 	22:29:19.1026	139	Present Lick Spouts
+11/15/2019 	22:29:19.4044	139	Report
+11/15/2019 	22:29:19.4084	139	Grace Period 300
+11/15/2019 	22:29:24.5603	139	Miss 1
+11/15/2019 	22:29:24.7602	139	End Recording
+11/15/2019 	22:29:25.2410	139	Withdraw Lick Spouts
+11/15/2019 	22:29:25.5439	139	Withdraw
+11/15/2019 	22:29:26.2822	139	End Trial 
+11/15/2019 	22:29:29.0257	140	Begin Trial / Recording
+11/15/2019 	22:29:29.1286	140	Present
+11/15/2019 	22:29:29.9422	140	Direction 1 CW 40 Aborted 
+11/15/2019 	22:29:30.3421	140	Delay 0 Aborted 
+11/15/2019 	22:29:30.3471	140	Direction 2 CW 40 Aborted 
+11/15/2019 	22:29:30.7488	140	Report Aborted 
+11/15/2019 	22:29:30.7549	140	Grace Period 300 Aborted 
+11/15/2019 	22:29:33.9730	140	Reward Aborted 
+11/15/2019 	22:29:33.9780	140	Hit 2 Aborted 
+11/15/2019 	22:29:34.2308	140	End Recording Aborted 
+11/15/2019 	22:29:36.4736	140	Withdraw Aborted 
+11/15/2019 	22:29:38.0058	140	End Trial  Aborted 
+11/15/2019 	22:29:38.1604	141	Begin Trial / Recording
+11/15/2019 	22:29:38.2634	141	Present
+11/15/2019 	22:29:39.0769	141	Direction 1 CW 40 Aborted 
+11/15/2019 	22:29:39.4787	141	Delay 0 Aborted 
+11/15/2019 	22:29:39.4817	141	Direction 2 CCW 40 Aborted 
+11/15/2019 	22:29:39.8827	141	Report Aborted 
+11/15/2019 	22:29:39.8867	141	Grace Period 300 Aborted 
+11/15/2019 	22:29:40.4974	141	Auto Reward Aborted 
+11/15/2019 	22:29:40.5034	141	FA 1 Aborted 
+11/15/2019 	22:29:41.1170	141	Withdraw Aborted 
+11/15/2019 	22:29:42.2152	141	End Recording Aborted 
+11/15/2019 	22:29:42.3433	141	End Trial  Aborted 
+11/15/2019 	22:29:48.0548	142	Begin Trial / Recording
+11/15/2019 	22:29:48.1573	142	Present
+11/15/2019 	22:29:48.9724	142	Direction 1 CW 40 Aborted 
+11/15/2019 	22:29:49.3752	142	Delay 0 Aborted 
+11/15/2019 	22:29:49.3782	142	Direction 2 CW 40 Aborted 
+11/15/2019 	22:29:49.7779	142	Report Aborted 
+11/15/2019 	22:29:49.7819	142	Grace Period 300 Aborted 
+11/15/2019 	22:29:54.9402	142	Miss 2 Aborted 
+11/15/2019 	22:29:55.3270	142	End Recording Aborted 
+11/15/2019 	22:29:55.8017	142	Withdraw Aborted 
+11/15/2019 	22:29:57.3578	142	End Trial  Aborted 
+11/15/2019 	22:29:57.4958	143	Begin Trial / Recording
+11/15/2019 	22:29:57.5957	143	Present
+11/15/2019 	22:29:58.4112	143	Direction 1 CW 40
+11/15/2019 	22:29:58.8110	143	Delay 0
+11/15/2019 	22:29:58.8140	143	Direction 2 CCW 40
+11/15/2019 	22:29:59.7155	143	Present Lick Spouts
+11/15/2019 	22:30:00.0163	143	Report
+11/15/2019 	22:30:00.0214	143	Grace Period 300
+11/15/2019 	22:30:04.7098	143	Reward
+11/15/2019 	22:30:04.7169	143	Hit 1
+11/15/2019 	22:30:04.7819	143	End Recording
+11/15/2019 	22:30:07.2116	143	Withdraw Lick Spouts
+11/15/2019 	22:30:07.5137	143	Withdraw
+11/15/2019 	22:30:08.2475	143	End Trial 
+11/15/2019 	22:30:08.3975	144	Begin Trial / Recording
+11/15/2019 	22:30:08.4994	144	Present
+11/15/2019 	22:30:09.3130	144	Direction 1 CW 40
+11/15/2019 	22:30:09.7158	144	Delay 0 Aborted 
+11/15/2019 	22:30:09.7178	144	Direction 2 CW 40 Aborted 
+11/15/2019 	22:30:10.1206	144	Report Aborted 
+11/15/2019 	22:30:10.1246	144	Grace Period 300 Aborted 
+11/15/2019 	22:30:15.2514	144	Auto Reward Aborted 
+11/15/2019 	22:30:15.2554	144	Miss 2 Aborted 
+11/15/2019 	22:30:15.6272	144	End Recording Aborted 
+11/15/2019 	22:30:16.1130	144	Withdraw Aborted 
+11/15/2019 	22:30:17.6473	144	End Trial  Aborted 
+11/15/2019 	22:30:17.7945	145	Begin Trial / Recording
+11/15/2019 	22:30:17.8954	145	Present
+11/15/2019 	22:30:18.7090	145	Direction 1 CW 40
+11/15/2019 	22:30:19.1115	145	Delay 0
+11/15/2019 	22:30:19.1155	145	Direction 2 CCW 40
+11/15/2019 	22:30:19.5183	145	Report Aborted 
+11/15/2019 	22:30:19.5223	145	Grace Period 300 Aborted 
+11/15/2019 	22:30:24.6754	145	Auto Reward Aborted 
+11/15/2019 	22:30:24.6794	145	Miss 1 Aborted 
+11/15/2019 	22:30:24.8713	145	End Recording Aborted 
+11/15/2019 	22:30:25.3570	145	Withdraw Aborted 
+11/15/2019 	22:30:26.0920	145	End Trial  Aborted 
+11/15/2019 	22:30:27.6527	146	Begin Trial / Recording
+11/15/2019 	22:30:27.7547	146	Present
+11/15/2019 	22:30:28.5682	146	Direction 1 CCW 40
+11/15/2019 	22:30:28.9689	146	Delay 0
+11/15/2019 	22:30:28.9719	146	Direction 2 CCW 40
+11/15/2019 	22:30:29.8735	146	Present Lick Spouts
+11/15/2019 	22:30:30.1733	146	Report
+11/15/2019 	22:30:30.1773	146	Grace Period 300
+11/15/2019 	22:30:34.8675	146	Auto Reward Aborted 
+11/15/2019 	22:30:34.8725	146	FA 2 Aborted 
+11/15/2019 	22:30:35.1854	146	End Recording Aborted 
+11/15/2019 	22:30:35.6693	146	Withdraw Lick Spouts Aborted 
+11/15/2019 	22:30:35.9693	146	Withdraw Aborted 
+11/15/2019 	22:30:37.5188	146	End Trial  Aborted 
+11/15/2019 	22:32:51.3700	147	Begin Trial / Recording
+11/15/2019 	22:32:51.4730	147	Present Aborted 
+11/15/2019 	22:32:52.2875	147	Direction 1 CW 40 Aborted 
+11/15/2019 	22:32:52.6884	147	Delay 0 Aborted 
+11/15/2019 	22:32:52.6914	147	Direction 2 CCW 40 Aborted 
+11/15/2019 	22:32:53.0911	147	Report Aborted 
+11/15/2019 	22:32:53.0971	147	Grace Period 300 Aborted 
+11/15/2019 	22:32:56.6203	147	Reward Aborted 
+11/15/2019 	22:32:56.6253	147	Hit 1 Aborted 
+11/15/2019 	22:32:56.6953	147	End Recording Aborted 
+11/15/2019 	22:32:59.1206	147	Withdraw Aborted 
+11/15/2019 	22:32:59.8668	147	End Trial  Aborted 
+11/15/2019 	22:33:00.0073	148	Begin Trial / Recording
+11/15/2019 	22:33:00.1092	148	Present
+11/15/2019 	22:33:00.9230	148	Direction 1 CCW 40
+11/15/2019 	22:33:01.3244	148	Delay 0
+11/15/2019 	22:33:01.3273	148	Direction 2 CCW 40
+11/15/2019 	22:33:01.7272	148	Report Aborted 
+11/15/2019 	22:33:01.7312	148	Grace Period 300 Aborted 
+11/15/2019 	22:33:06.8850	148	Auto Reward Aborted 
+11/15/2019 	22:33:06.8900	148	Miss 2 Aborted 
+11/15/2019 	22:33:07.2557	148	End Recording Aborted 
+11/15/2019 	22:33:07.7468	148	Withdraw Aborted 
+11/15/2019 	22:33:09.2991	148	End Trial  Aborted 
+11/15/2019 	22:34:32.9254	149	Begin Trial / Recording
+11/15/2019 	22:34:33.0273	149	Present Aborted 
+11/15/2019 	22:34:33.8409	149	Direction 1 CW 40 Aborted 
+11/15/2019 	22:34:34.2417	149	Delay 0 Aborted 
+11/15/2019 	22:34:34.2447	149	Direction 2 CCW 40 Aborted 
+11/15/2019 	22:34:34.6445	149	Report Aborted 
+11/15/2019 	22:34:34.6494	149	Grace Period 300 Aborted 
+11/15/2019 	22:34:35.7728	149	Auto Reward Aborted 
+11/15/2019 	22:34:35.7778	149	FA 1 Aborted 
+11/15/2019 	22:34:36.3955	149	Withdraw Aborted 
+11/15/2019 	22:34:36.9921	149	End Recording Aborted 
+11/15/2019 	22:34:37.1255	149	End Trial  Aborted 
+11/15/2019 	22:34:37.2606	150	Begin Trial / Recording
+11/15/2019 	22:34:37.3626	150	Present
+11/15/2019 	22:34:38.1761	150	Direction 1 CW 40
+11/15/2019 	22:34:38.5759	150	Delay 0
+11/15/2019 	22:34:38.5789	150	Direction 2 CW 40
+11/15/2019 	22:34:39.4794	150	Present Lick Spouts
+11/15/2019 	22:34:39.7792	150	Report
+11/15/2019 	22:34:39.7832	150	Grace Period 300
+11/15/2019 	22:34:42.9295	150	Reward Aborted 
+11/15/2019 	22:34:42.9345	150	Hit 2 Aborted 
+11/15/2019 	22:34:43.1824	150	End Recording Aborted 
+11/15/2019 	22:34:45.4292	150	Withdraw Lick Spouts Aborted 
+11/15/2019 	22:34:45.7291	150	Withdraw Aborted 
+11/15/2019 	22:34:47.2789	150	End Trial  Aborted 
+11/15/2019 	22:34:47.4167	151	Begin Trial / Recording
+11/15/2019 	22:34:47.5187	151	Present
+11/15/2019 	22:34:48.3322	151	Direction 1 CW 40
+11/15/2019 	22:34:48.7320	151	Delay 0
+11/15/2019 	22:34:48.7350	151	Direction 2 CCW 40
+11/15/2019 	22:34:49.6355	151	Present Lick Spouts
+11/15/2019 	22:34:49.9373	151	Report
+11/15/2019 	22:34:49.9433	151	Grace Period 300
+11/15/2019 	22:34:53.2174	151	Auto Reward
+11/15/2019 	22:34:53.2214	151	FA 1
+11/15/2019 	22:34:53.3539	151	End Recording
+11/15/2019 	22:34:53.8396	151	Withdraw Lick Spouts
+11/15/2019 	22:34:54.1394	151	Withdraw
+11/15/2019 	22:34:54.8794	151	End Trial 
+11/15/2019 	22:34:55.0258	152	Begin Trial / Recording
+11/15/2019 	22:34:55.1288	152	Present
+11/15/2019 	22:34:55.9430	152	Direction 1 CW 40
+11/15/2019 	22:34:56.3431	152	Delay 0
+11/15/2019 	22:34:56.3491	152	Direction 2 CW 40
+11/15/2019 	22:34:57.2488	152	Present Lick Spouts
+11/15/2019 	22:34:57.5497	152	Report
+11/15/2019 	22:34:57.5557	152	Grace Period 300
+11/15/2019 	22:35:02.7329	152	Miss 2 Aborted 
+11/15/2019 	22:35:03.1027	152	End Recording Aborted 
+11/15/2019 	22:35:03.5952	152	Withdraw Lick Spouts Aborted 
+11/15/2019 	22:35:03.8951	152	Withdraw Aborted 
+11/15/2019 	22:35:05.4413	152	End Trial  Aborted 
+11/15/2019 	22:35:05.5756	153	Begin Trial / Recording
+11/15/2019 	22:35:05.6766	153	Present
+11/15/2019 	22:35:06.4902	153	Direction 1 CW 40
+11/15/2019 	22:35:06.8903	153	Delay 0
+11/15/2019 	22:35:06.8943	153	Direction 2 CCW 40
+11/15/2019 	22:35:07.7937	153	Present Lick Spouts
+11/15/2019 	22:35:08.0980	153	Report
+11/15/2019 	22:35:08.1020	153	Grace Period 300
+11/15/2019 	22:35:11.9260	153	Auto Reward Aborted 
+11/15/2019 	22:35:11.9320	153	FA 1 Aborted 
+11/15/2019 	22:35:12.0700	153	End Recording Aborted 
+11/15/2019 	22:35:12.5472	153	Withdraw Lick Spouts Aborted 
+11/15/2019 	22:35:12.8470	153	Withdraw Aborted 
+11/15/2019 	22:35:13.5819	153	End Trial  Aborted 
+11/15/2019 	23:07:41.9399	154	Begin Trial / Recording
+11/15/2019 	23:07:42.0419	154	Present
+11/15/2019 	23:07:42.8565	154	Direction 1 CW 40
+11/15/2019 	23:07:43.2564	154	Delay 0
+11/15/2019 	23:07:43.2604	154	Direction 2 CW 40
+11/15/2019 	23:07:44.1600	154	Present Lick Spouts Aborted 
+11/15/2019 	23:07:44.4628	154	Report Aborted 
+11/15/2019 	23:07:44.4668	154	Grace Period 300 Aborted 
+11/15/2019 	23:07:48.1427	154	Reward Aborted 
+11/15/2019 	23:07:48.1467	154	Hit 2 Aborted 
+11/15/2019 	23:07:48.4105	154	End Recording Aborted 
+11/15/2019 	23:07:50.6445	154	Withdraw Lick Spouts Aborted 
+11/15/2019 	23:07:50.9443	154	Withdraw Aborted 
+11/15/2019 	23:07:52.4859	154	End Trial  Aborted 
+11/15/2019 	23:56:15.7071	155	Begin Trial / Recording
+11/15/2019 	23:56:15.8090	155	Present
+11/15/2019 	23:56:16.6257	155	Direction 1 CW 40
+11/15/2019 	23:56:17.0264	155	Delay 0 Aborted 
+11/15/2019 	23:56:17.0304	155	Direction 2 CCW 40 Aborted 
+11/15/2019 	23:56:17.4312	155	Report Aborted 
+11/15/2019 	23:56:17.4372	155	Grace Period 300 Aborted 
+11/15/2019 	23:56:21.6904	155	Auto Reward Aborted 
+11/15/2019 	23:56:21.6954	155	FA 1 Aborted 
+11/15/2019 	23:56:21.8224	155	End Recording Aborted 
+11/15/2019 	23:56:22.3132	155	Withdraw Aborted 
+11/15/2019 	23:56:23.0648	155	End Trial  Aborted 

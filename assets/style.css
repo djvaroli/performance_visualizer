@@ -1,0 +1,13 @@
+#body {
+    margin: 2.5%;
+}
+
+#body > h1 {
+    text-align: center;
+}
+
+/*.behavior-stats-plot {*/
+/*    display: inline-block;*/
+/*    width: 45%;*/
+/*    padding: 2.5% 0;*/
+/*}*/
