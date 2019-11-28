@@ -1,42 +1,12 @@
-import dash  # THIS IS TEST
+import dash
 from display import *
 from utils import *
 from dash.dependencies import Input, Output
 
 external_stylesheets = ['https://codepen.io/chriddyp/pen/bWLwgP.css']
 app = dash.Dash(__name__, external_stylesheets=external_stylesheets)
-
-animal = 'test5_2AFC'
-main_folder = "LabVIEW Data"
-
-def app_layout_init():
-    dates = get_experiment_dates(animal,main_folder)
-    min_date,max_date = dt.strptime(dates[0], '%Y%m%d'),dt.strptime(dates[-1], '%Y%m%d')
-
-    # dcc.Slider(
-    #     min=0,
-    #     max=len(dates),
-    #     marks={i: ' {}'.format(i) for i in range(10)},
-    #     value=5,
-    # )
-
-    component =  html.Div([
-        html.H1('Mouse Activity'),
-        html.Label('Select Date:'),
-        dcc.DatePickerSingle(
-            id='date-picker-single',
-            date=max_date,
-            min_date_allowed=min_date,
-            max_date_allowed=max_date
-        ),
-        dcc.Graph(id='trial-activity'),
-        dcc.Graph(className='behavior-stats-plot', id='hourly-stats-plot'),
-        dcc.Graph(className='behavior-stats-plot', id='daily-stats-plot')
-    ], id ='body') # id body
-
-    return component
-
 app.layout = app_layout_init
+
 
 @app.callback(
     [Output('trial-activity', 'figure'), Output('hourly-stats-plot','figure'),Output('daily-stats-plot','figure')],

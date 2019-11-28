@@ -1,4 +1,31 @@
+from utils import get_prior_stats, mouse_actions
 import numpy as np
+import pdb
+
+def get_performance_stats(events, time, date):
+    # each mouse action is a key, for each key --> dictionary with count of that action, probability of that action
+    # over time and time points for plotting
+    action_stats = dict.fromkeys(mouse_actions)
+
+    init_count = get_prior_stats(date)
+
+    for mouse_action in mouse_actions:
+        count = init_count[mouse_action]
+        action_stats[mouse_action] = {'count': count, 'prob_t': [], 't': []}
+    total_count = init_count['total']
+
+    for i in range(len(events)):
+        event = events[i]
+        for mouse_action in mouse_actions:
+            if mouse_action in event:
+                total_count += 1
+                action_stats[mouse_action]['count'] += 1
+                prob = action_stats[mouse_action]['count']/total_count
+                action_stats[mouse_action]['prob_t'] += [np.round(prob,3)]
+                action_stats[mouse_action]['t'] += [time[i]]
+
+
+    return action_stats,total_count
 
 
 def adjust_for_resets(trialCount):
