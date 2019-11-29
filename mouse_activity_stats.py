@@ -1,6 +1,8 @@
-from utils import get_prior_stats, mouse_actions
+import os
+from os.path import isdir,join
+from utils import *
+import multiprocessing as mp
 import numpy as np
-import pdb
 
 def get_performance_stats(events, time, date):
     # each mouse action is a key, for each key --> dictionary with count of that action, probability of that action
@@ -9,10 +11,11 @@ def get_performance_stats(events, time, date):
 
     init_count = get_prior_stats(date)
 
+    total_count = init_count['total']
     for mouse_action in mouse_actions:
         count = init_count[mouse_action]
         action_stats[mouse_action] = {'count': count, 'prob_t': [], 't': []}
-    total_count = init_count['total']
+
 
     for i in range(len(events)):
         event = events[i]
@@ -20,7 +23,15 @@ def get_performance_stats(events, time, date):
             if mouse_action in event:
                 total_count += 1
                 action_stats[mouse_action]['count'] += 1
-                prob = action_stats[mouse_action]['count']/total_count
+
+                if len(action_stats[mouse_action]['prob_t']) == 0:
+                    try:
+                        prob = (action_stats[mouse_action]['count'] - 1)/init_count['total']
+                    except:
+                        prob = action_stats[mouse_action]['count'] / total_count
+                else:
+                    prob = action_stats[mouse_action]['count']/total_count
+
                 action_stats[mouse_action]['prob_t'] += [np.round(prob,3)]
                 action_stats[mouse_action]['t'] += [time[i]]
 
@@ -73,3 +84,45 @@ def get_trial_activity(trialCount,time):
 
     trial_dist = {'trials':n_trials}
     return  trial_dist
+
+
+def get_stats(animal,date,toReturn='11',main_folder = 'LabVIEW Data'):
+    # gets the number of trials perfomred at each hour, and the performance stats for a given date,
+    # specified by the name of the folder with format animalname_date
+
+    folder = animal + "_" + date
+    lab_view_output_file = join(main_folder,folder, "%s%s.txt" % (animal, date))
+
+    time, trialCount, events = np.loadtxt(lab_view_output_file, dtype='str', delimiter='\t', usecols=(1, 2, 3),unpack=True)  # Read in \t separated data
+    time = np.array([convert_time_to_float(t_stamp[:8]) for t_stamp in time[1:]]) # keep only the hour and ignore first row since it contains titles
+
+    if toReturn == '11':
+        trial_dist = get_trial_activity(trialCount, time)
+        performance_stats,_ = get_performance_stats(events, time, date)
+        current_date_stats = {**performance_stats, **trial_dist}
+        return current_date_stats
+    if toReturn[0] == '1':
+        trial_dist = get_trial_activity(trialCount,time)
+        current_date_stats = {**trial_dist}
+        return current_date_stats
+    if toReturn[-1] == '1':
+        performance_stats,total_count = get_performance_stats(events,time,date)
+        current_date_stats = {**performance_stats}
+        return current_date_stats,total_count
+
+def data_prep(animal,dates,stats_dir = "stats"):
+
+    for date in dates:
+        date_stats_dir = join(stats_dir,date)
+        if isdir(date_stats_dir) == 0:
+            os.mkdir(date_stats_dir)
+
+        num_files = len([file for file in os.listdir(date_stats_dir) if '.txt' in file])
+        pool = mp.Pool(mp.cpu_count())
+
+        if num_files == 0:
+            toReturn = '01'
+            date_stats,total_count = pool.apply(get_stats, args=(animal, date, toReturn))
+            pool.apply(write_data_to_file,args=(date_stats,total_count,date))
+
+        pool.close()

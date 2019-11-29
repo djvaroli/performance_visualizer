@@ -1,7 +1,45 @@
 import plotly.graph_objs as go
+import dash_core_components as dcc
+import dash_html_components as html
+from utils import *
+from mouse_activity_stats import  data_prep
 import numpy as np
 
+def app_layout_init():
+    dates = get_experiment_dates(animal,main_folder)
+    min_date,max_date = dt.strptime(dates[0], '%Y%m%d'),dt.strptime(dates[-1], '%Y%m%d')
 
+    component =  html.Div([
+        html.H1(animal + " activity"),
+        html.Div(['Select Date:',
+        dcc.DatePickerSingle(
+            id='date-picker-single',
+            date=max_date,
+            min_date_allowed=min_date,
+            max_date_allowed=max_date,
+            className= "date_input_1"
+        )],className="date_select"),
+        html.Hr(),
+        html.Div(children = [
+            "Trials Attempted By Hour",
+            dcc.Graph(id='trial-activity')
+        ],className= "plot left"),
+
+        html.Div(children=[
+            "Performance Stats For Selected Day",
+            dcc.Graph(id='hourly-stats-plot')
+        ], className="plot right"),
+
+        html.Div(children=[
+            "Performance Stats All-time",
+            dcc.Graph(id='daily-stats-plot')
+        ], className="plot-full left"),
+
+    ], id ='body') # id body
+
+    data_prep(animal,dates) # prepare data for display
+
+    return component
 
 def generate_trials_figure(stats,desired_date,av_stats):
 
@@ -49,18 +87,16 @@ def generate_trials_figure(stats,desired_date,av_stats):
                 )
             )
 
-    # plot.append(
-    #     go.Scatter(
-    #         x=stats['Hit 1']['t'],
-    #         y=stats['Hit 1']['prob_t'],
-    #         mode='lines+markers',
-    #         name='Hit 1'
-    #     )
-    # )
-
     figure_trials = {
         'data': plot_trials,
         'layout': dict(
+            # title={
+            #     'text': "Trials Attempted By Hour",
+            #     'y': 0.9,
+            #     'x': 0.5,
+            #     'xanchor': 'center',
+            #     'yanchor': 'top',
+            #     'font': '19'},
             xaxis={'title': 'Time of Day',
                    'range': [0, 24],
                    'tickmode': 'linear',

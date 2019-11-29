@@ -1,13 +1,57 @@
+.gr__127_0_0_1 {
+    background: #f3f3f3;
+}
+
 #body {
     margin: 2.5%;
+
 }
 
 #body > h1 {
     text-align: center;
 }
 
-/*.behavior-stats-plot {*/
-/*    display: inline-block;*/
-/*    width: 45%;*/
-/*    padding: 2.5% 0;*/
+.date_select {
+    border-bottom: 2px solid #565fd4;
+    max-width: 30rem;
+    font-size: 20px;
+}
+
+.DateInput_input {
+    border: none !important;
+    background-color: #f3f3f3 !important;
+    color: #2786ff;
+}
+
+.SingleDatePickerInput__withBorder, .SingleDatePickerInput__withBorder_2 {
+    border: none;
+}
+
+.plot,.plot-full {
+    height: 50rem;
+    padding: 2%;
+    margin-bottom: 2%;
+    border-radius: 5px;
+    background: white;
+    box-shadow: 2px 2px 2px lightgrey;
+    text-align: center;
+    font-size: 20px;
+}
+
+.plot {
+    width: 45%;
+}
+.plot-full {
+    width: 96%; /* 100% - padding (2% on each side)*/
+}
+
+.left {
+    float: left;
+}
+
+.right{
+    float: right;
+}
+/*.main-svg {*/
+/*    max-width: 45%;*/
 /*}*/
