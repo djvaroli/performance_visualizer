@@ -1,8 +1,8 @@
 import plotly.graph_objs as go
 import dash_core_components as dcc
 import dash_html_components as html
-from utils import *
-from mouse_activity_stats import  data_prep
+from utililty import *
+from data_functions import  data_prep
 import numpy as np
 
 def app_layout_init():
@@ -10,7 +10,8 @@ def app_layout_init():
     min_date,max_date = dt.strptime(dates[0], '%Y%m%d'),dt.strptime(dates[-1], '%Y%m%d')
 
     component =  html.Div([
-        html.H1(animal + " activity"),
+        html.H1("Animal Performance"),
+        html.Div(["Animal ID: " + animal],id="animal_id"),
         html.Div(['Select Date:',
         dcc.DatePickerSingle(
             id='date-picker-single',

@@ -1,6 +1,6 @@
 import os
 from os.path import isdir,join
-from utils import *
+from utililty import *
 import multiprocessing as mp
 import numpy as np
 

@@ -1,6 +1,6 @@
 import dash
-from display import *
-from mouse_activity_stats import *
+from display_functions import *
+from data_functions import *
 from dash.dependencies import Input, Output
 
 external_stylesheets = ['https://codepen.io/chriddyp/pen/bWLwgP.css']
