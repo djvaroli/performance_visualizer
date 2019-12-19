@@ -42,7 +42,7 @@ def app_layout_init():
 
     return component
 
-def generate_trials_figure(stats,desired_date,av_stats):
+def generate_trials_figure(stats,desired_date,av_stats,stats_cd):
 
     plot_trials = []
     plot_stats = []
@@ -70,8 +70,8 @@ def generate_trials_figure(stats,desired_date,av_stats):
         if action != 'trials':
             plot_stats.append(
                 go.Scatter(
-                    x=stats[action]['t'],
-                    y=stats[action]['prob_t'],
+                    x=stats_cd[action]['t'],
+                    y=stats_cd[action]['prob_t'],
                     mode='lines',
                     name=action
                 )

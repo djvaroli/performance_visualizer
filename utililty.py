@@ -29,7 +29,7 @@ def get_prior_stats(date):
 
     date_dt = dt.strptime(date, '%Y%m%d')
     prev_date_dt = date_dt - datetime.timedelta(1)
-    prev_date = str(prev_date_dt.year) + str(prev_date_dt.month) + str(prev_date_dt.day)
+    prev_date = prev_date_dt.strftime('%Y%m%d')
     exp_dates = get_experiment_dates(animal,main_folder)
 
     if prev_date in exp_dates:
@@ -42,7 +42,6 @@ def get_prior_stats(date):
             action_count = int(action_count)
             count['total'] = total_count
             count[mouse_action] = action_count
-
     return count
 
 
