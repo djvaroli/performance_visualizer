@@ -2,12 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1b9b6487-5933-4a0b-a6f9-587a4f97e818" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/acitivty_visualizer.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/acitivty_visualizer.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/app.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_functions.py" beforeDir="false" afterPath="$PROJECT_DIR$/data_functions.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/display_functions.py" beforeDir="false" afterPath="$PROJECT_DIR$/display_functions.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mouse_activity_stats copy.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/utililty.py" beforeDir="false" afterPath="$PROJECT_DIR$/utililty.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -107,6 +104,11 @@
       <workItem from="1575065819386" duration="1018000" />
       <workItem from="1576766839449" duration="388000" />
       <workItem from="1576787071181" duration="51000" />
+      <workItem from="1576790244700" duration="77000" />
+      <workItem from="1576790651290" duration="3000" />
+      <workItem from="1576790851940" duration="1000" />
+      <workItem from="1581085224419" duration="485000" />
+      <workItem from="1582523308820" duration="680000" />
     </task>
     <servers />
   </component>
